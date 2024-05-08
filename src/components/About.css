@@ -23,19 +23,22 @@
     color: #666;
     margin-bottom: 20px;
   }
+  
   .icon-group {
     display: flex;
-    justify-content: space-around;
-    margin-bottom: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
   }
   
   .icon-box {
-    text-align: center;
+    width: 20%;
+    margin-bottom: 30px;
   }
   
   .icon {
     font-size: 36px;
-    color:orangered;
+    color: orangered;
   }
   
   .icon-text {
@@ -43,6 +46,5 @@
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
-    
   }
   
