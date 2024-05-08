@@ -1,6 +1,15 @@
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUtensils, faGlobe, faUsers, faHeart } from '@fortawesome/free-solid-svg-icons';
+import { 
+  faUtensils, 
+  faGlobe, 
+  faUsers, 
+  faHeart, 
+  faSmile, 
+  faLeaf, 
+  faStar, 
+  faHandsHelping 
+} from '@fortawesome/free-solid-svg-icons';
 import "../components/About.css"; 
 
 function About() {
@@ -24,6 +33,22 @@ function About() {
           <div className="icon-box">
             <FontAwesomeIcon icon={faHeart} className="icon" />
             <p className="icon-text">Passion for Food</p>
+          </div>
+          <div className="icon-box">
+            <FontAwesomeIcon icon={faSmile} className="icon" />
+            <p className="icon-text">Joyful Cooking Experience</p>
+          </div>
+          <div className="icon-box">
+            <FontAwesomeIcon icon={faLeaf} className="icon" />
+            <p className="icon-text">Fresh and Healthy Recipes</p>
+          </div>
+          <div className="icon-box">
+            <FontAwesomeIcon icon={faStar} className="icon" />
+            <p className="icon-text">High-Quality Ingredients</p>
+          </div>
+          <div className="icon-box">
+            <FontAwesomeIcon icon={faHandsHelping} className="icon" />
+            <p className="icon-text">Supportive Community</p>
           </div>
         </div>
         <p className="about-paragraph">
