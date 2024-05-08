@@ -25,12 +25,24 @@
   .navbar {
     font-size: x-large;
     font-style: italic;
-    color: rgb(140, 38, 17);
-    
+    color: rgb(140, 38, 17); 
   }
 
   .Iconcontainer{
     display: flex;
     align-items: center;
   }
+
+  .ButtonsDiv{
+    display: flex;
+    justify-content: space-between; 
+  }
+
+  .nav{
+    display: flex;
+    justify-content: center; 
+  }
   
+  .Navbutton{
+    margin-left: 10px;
+  }

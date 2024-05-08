@@ -14,8 +14,15 @@ function Navbar() {
         <h3>COOKBOOK COMPANION</h3>
         </div>
        <div>
-    <nav>
-        <NavLink to={'/'}  className='navbar' >HOME </NavLink>
+    <nav className='nav'>
+   <div className='ButtonsDiv'>
+      <div className='Navbutton'>
+        <NavLink to={'/'}  className='navbar' >
+          <button className="btn btn-secondary">HOME</button>
+           </NavLink>
+       </div>
+      
+      </div>
     </nav>
     </div>
     </div>
