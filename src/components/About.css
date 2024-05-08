@@ -48,3 +48,13 @@
     font-size: larger;
   }
   
+  .paragraph-group {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40px;
+  }
+  
+  .paragraph-group .icon {
+    margin-right: 20px;
+  }
+  
