@@ -1,0 +1,23 @@
+.header {
+    font-size: 36px;
+    font-style: italic;
+    color: #333;
+    animation: fadeIn 0.5s linear both;
+  }
+  
+  .paragraph {
+    font-size: 18px;
+    font-style: normal;
+    color: #666;
+    animation: fadeIn 0.5s linear 0.2s both;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
