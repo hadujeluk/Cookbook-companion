@@ -1,33 +1,27 @@
-import React from 'react';
+import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
-import './Footer.css'; 
-
-import logo from '../assets/logo.png'; 
+import { faFacebookF, faTwitter, faInstagram, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+import "../components/Footer.css"; 
 
 function Footer() {
   return (
     <footer className="footer">
-      <div className="footer-container">
-        <div className="footer-logo">
-          <img src={logo} alt="Logo" />
-        </div>
-        <div className="footer-links">
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Recipes</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Contact Us</a></li>
-          </ul>
-        </div>
-        <div className="footer-social">
-          <a href="#"><FontAwesomeIcon icon={faFacebook} /></a>
-          <a href="#"><FontAwesomeIcon icon={faInstagram} /></a>
-          <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
-        </div>
+      <div className="social-icons">
+        <a href="https://www.facebook.com/your-facebook-page" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faFacebookF} className="icon" />
+        </a>
+        <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faTwitter} className="icon" />
+        </a>
+        <a href="https://www.instagram.com/your-instagram-handle" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faInstagram} className="icon" />
+        </a>
+        <a href="https://www.linkedin.com/company/your-linkedin-page" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faLinkedinIn} className="icon" />
+        </a>
       </div>
-      <div className="footer-bottom">
-        <p>&copy; 2024 RecipeBook. All rights reserved.</p>
+      <div className="signature">
+        <span>© 2024 Cookbook Companion</span>
       </div>
     </footer>
   );
