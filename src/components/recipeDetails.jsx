@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import RenderDetails from "./renderDetails";
+import Navbar from "./Navbar"
 
 function RecipeDetails() {
   const [dishes, setDishes] = useState([]);
@@ -14,6 +15,7 @@ function RecipeDetails() {
 
   return (
     <div>
+      <Navbar />
       <RenderDetails
         key={dishes.id}
         portion={dishes.portion}

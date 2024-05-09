@@ -17,12 +17,12 @@ function Navbar() {
           <div className="ButtonsDiv">
             <div className="Navbutton">
               <NavLink to={"/"} className="navbar">
-                <button className="btn btn-secondary">HOME</button>
+                <button className="btn btn-secondary button1">HOME</button>
               </NavLink>
             </div>
             <div className="Navbutton">
               <NavLink to={"/dishes"} className="navbar">
-                <button className="btn btn-secondary">DISHES</button>
+                <button className="btn btn-secondary button1">DISHES</button>
               </NavLink>
             </div>
           </div>
