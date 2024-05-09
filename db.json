@@ -1,924 +1,923 @@
 {
-    "recipes":[
-
-{
-    "id": "5",
-    "title": "Vegetarian Quinoa Salad",
-    "difficulty": "Medium",
-    "portion": "Serves 2",
-    "time": "Hands-on time 20 min",
-    "description": "This colorful and nutritious vegetarian quinoa salad is perfect for a light lunch or dinner. Packed with protein from quinoa and chickpeas, and loaded with fresh veggies, it's a satisfying and healthy meal option.",
-    "ingredients": [
-      "1 cup quinoa, rinsed and drained",
-      "1 1/2 cups water or vegetable broth",
-      "1 can (400g) chickpeas, drained and rinsed",
-      "1 cup cherry tomatoes, halved",
-      "1/2 cucumber, diced",
-      "1/4 cup red onion, finely chopped",
-      "1/4 cup fresh parsley, chopped",
-      "1/4 cup fresh mint leaves, chopped",
-      "Juice of 1 lemon",
-      "2 tbsp extra virgin olive oil",
-      "Salt and pepper to taste",
-      "Crumbled feta cheese for serving (optional)"
-    ],
-    "method": [
-      {
-        "Step 1": "In a medium saucepan, bring the water or vegetable broth to a boil. Add the quinoa, reduce heat to low, cover, and simmer for 15 minutes, or until quinoa is cooked and liquid is absorbed. Remove from heat and let it cool."
-      },
-      {
-        "Step 2": "In a large mixing bowl, combine the cooked quinoa, chickpeas, cherry tomatoes, cucumber, red onion, parsley, and mint."
-      },
-      {
-        "Step 3": "In a small bowl, whisk together the lemon juice, olive oil, salt, and pepper. Pour the dressing over the quinoa salad and toss to coat evenly."
-      },
-      {
-        "Step 4": "Divide the salad into serving bowls and sprinkle with crumbled feta cheese, if desired. Serve immediately or refrigerate until ready to serve."
-      }
-    ],
-    "image": "https://thekitchengirl.com/wp-content/uploads/vegetable-quinoa-salad-recipe-B_69.jpg"
-  },
-  {
-    "id": "7",
-    "title": "Lemon Garlic Roast Chicken",
-    "difficulty": "Easy",
-    "portion": "Serves 6",
-    "time": "Hands-on time 15 min, Cooking time 1 hr 30 min",
-    "description": "This lemon garlic roast chicken is juicy, flavorful, and incredibly simple to make. With just a few ingredients, you'll have a delicious and comforting meal that's perfect for any occasion.",
-    "ingredients": [
-      "1 whole chicken (about 4-5 lbs)",
-      "4 cloves garlic, minced",
-      "1 lemon, sliced",
-      "2 tbsp olive oil",
-      "1 tsp dried thyme",
-      "1 tsp dried rosemary",
-      "Salt and pepper to taste"
-    ],
-    "method": [
-      {
-        "Step 1": "Preheat your oven to 375°F (190°C)."
-      },
-      {
-        "Step 2": "In a small bowl, mix together the minced garlic, olive oil, dried thyme, dried rosemary, salt, and pepper."
-      },
-      {
-        "Step 3": "Pat the chicken dry with paper towels. Rub the garlic herb mixture all over the chicken, including under the skin and inside the cavity."
-      },
-      {
-        "Step 4": "Place the lemon slices inside the cavity of the chicken."
-      },
-      {
-        "Step 5": "Transfer the chicken to a roasting pan or baking dish. Roast in the preheated oven for about 1 hour 30 minutes, or until the internal temperature of the chicken reaches 165°F (75°C) and the skin is golden brown and crispy."
-      },
-      {
-        "Step 6": "Once cooked, remove the chicken from the oven and let it rest for 10-15 minutes before carving. Serve hot and enjoy!"
-      }
-    ],
-    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/12/0/FN_Ina-Garten-Lemon-and-Garlic-Roast-Chicken_s4x3.jpg.rend.hgtvcom.616.462.suffix/1384540888558.jpeg"
-  },
-  {
-    "id": "8",
-    "title": "Caprese Salad",
-    "difficulty": "Easy",
-    "portion": "Serves 2",
-    "time": "Hands-on time 10 min",
-    "description": "Enjoy the flavors of Italy with this simple and refreshing Caprese salad. Fresh tomatoes, creamy mozzarella, and fragrant basil come together with a drizzle of balsamic glaze for a delightful appetizer or side dish.",
-    "ingredients": [
-      "2 large ripe tomatoes, sliced",
-      "1 ball fresh mozzarella cheese, sliced",
-      "Handful fresh basil leaves",
-      "2 tbsp balsamic glaze",
-      "2 tbsp extra virgin olive oil",
-      "Salt and pepper to taste"
-    ],
-    "method": [
-      {
-        "Step 1": "Arrange the sliced tomatoes and mozzarella on a serving platter, alternating them."
-      },
-      {
-        "Step 2": "Tuck fresh basil leaves between the tomato and mozzarella slices."
-      },
-      {
-        "Step 3": "Drizzle the salad with balsamic glaze and olive oil."
-      },
-      {
-        "Step 4": "Season with salt and pepper to taste."
-      },
-      {
-        "Step 5": "Serve immediately as a light and refreshing appetizer or side dish. Enjoy!"
-      }
-    ],
-    "image": "https://natashaskitchen.com/wp-content/uploads/2019/08/Caprese-Salad-6.jpg"
-  },
-  {
-    "id": "9",
-    "title": "Pesto Pasta with Cherry Tomatoes",
-    "difficulty": "Easy",
-    "portion": "Serves 4",
-    "time": "Hands-on time 20 min",
-    "description": "This vibrant and flavorful pesto pasta with cherry tomatoes is a quick and easy meal that's perfect for busy weeknights. With just a handful of ingredients, you can have a delicious dinner on the table in no time.",
-    "ingredients": [
-      "12 oz (340g) spaghetti or your favorite pasta",
-      "1/2 cup basil pesto",
-      "1 pint cherry tomatoes, halved",
-      "2 cloves garlic, minced",
-      "1/4 cup grated Parmesan cheese",
-      "2 tbsp extra virgin olive oil",
-      "Salt and pepper to taste",
-      "Fresh basil leaves for garnish"
-    ],
-    "method": [
-      {
-        "Step 1": "Cook the pasta according to the package instructions until al dente. Reserve 1/2 cup of pasta water, then drain the pasta."
-      },
-      {
-        "Step 2": "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes, or until fragrant."
-      },
-      {
-        "Step 3": "Add the halved cherry tomatoes to the skillet and cook for 3-4 minutes, or until they start to soften."
-      },
-      {
-        "Step 4": "Stir in the basil pesto and cooked pasta, tossing until well combined. If the pasta seems dry, add some of the reserved pasta water to loosen it up."
-      },
-      {
-        "Step 5": "Cook for an additional 1-2 minutes, then remove from heat."
-      },
-      {
-        "Step 6": "Serve the pesto pasta hot, garnished with grated Parmesan cheese and fresh basil leaves. Enjoy!"
-      }
-    ],
-    "image": "https://www.italianfoodforever.com/wp-content/uploads/2015/07/pestopasta4-480x360.jpg"
-  },
-  {
-    "id": "10",
-    "title": "Vegetable Stir-Fry",
-    "difficulty": "Easy",
-    "portion": "Serves 2-3",
-    "time": "Hands-on time 20 min",
-    "description": "This colorful and flavorful vegetable stir-fry is a quick and healthy meal that's perfect for busy weeknights. Loaded with a variety of fresh vegetables and tossed in a savory sauce, it's sure to become a favorite.",
-    "ingredients": [
-      "2 cups mixed vegetables (such as bell peppers, broccoli, carrots, snap peas)",
-      "2 tbsp vegetable oil",
-      "2 cloves garlic, minced",
-      "1 inch piece ginger, minced",
-      "1/4 cup soy sauce",
-      "2 tbsp hoisin sauce",
-      "1 tbsp rice vinegar",
-      "1 tbsp sesame oil",
-      "2 green onions, sliced",
-      "Cooked rice or noodles for serving"
-    ],
-    "method": [
-      {
-        "Step 1": "Heat the vegetable oil in a large skillet or wok over medium-high heat."
-      },
-      {
-        "Step 2": "Add the minced garlic and ginger to the skillet and cook for 1-2 minutes, or until fragrant."
-      },
-      {
-        "Step 3": "Add the mixed vegetables to the skillet and stir-fry for 5-7 minutes, or until tender-crisp."
-      },
-      {
-        "Step 4": "In a small bowl, whisk together the soy sauce, hoisin sauce, rice vinegar, and sesame oil."
-      },
-      {
-        "Step 5": "Pour the sauce over the vegetables in the skillet and toss to coat evenly."
-      },
-      {
-        "Step 6": "Cook for an additional 1-2 minutes, then remove from heat."
-      },
-      {
-        "Step 7": "Serve the vegetable stir-fry hot, garnished with sliced green onions, and accompanied by cooked rice or noodles. Enjoy!"
-      }
-    ],
-    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2019/02/vegetable-stir-fry-3.jpg"
-  },
-  {
-    "id": "11",
-    "title": "Spinach and Feta Stuffed Chicken Breast",
-    "difficulty": "Intermediate",
-    "portion": "Serves 2",
-    "time": "Hands-on time 25 min, Cooking time 25 min",
-    "description": "Impress your dinner guests with these elegant spinach and feta stuffed chicken breasts. Tender chicken breasts are filled with a savory mixture of spinach, feta cheese, and herbs, then baked to perfection. It's a restaurant-quality dish that's surprisingly easy to make at home.",
-    "ingredients": [
-      "2 boneless, skinless chicken breasts",
-      "2 cups fresh spinach leaves",
-      "1/2 cup crumbled feta cheese",
-      "2 cloves garlic, minced",
-      "1 tsp dried oregano",
-      "1 tsp dried thyme",
-      "Salt and pepper to taste",
-      "1 tbsp olive oil",
-      "1/4 cup chicken broth or water",
-      "Lemon wedges for serving (optional)"
-    ],
-    "method": [
-      {
-        "Step 1": "Preheat your oven to 375°F (190°C)."
-      },
-      {
-        "Step 2": "Using a sharp knife, make a horizontal slit along the side of each chicken breast to create a pocket."
-      },
-      {
-        "Step 3": "In a small bowl, mix together the spinach, feta cheese, minced garlic, dried oregano, dried thyme, salt, and pepper."
-      },
-      {
-        "Step 4": "Stuff each chicken breast with the spinach and feta mixture, then secure the openings with toothpicks."
-      },
-      {
-        "Step 5": "Heat the olive oil in an oven-safe skillet over medium-high heat."
-      },
-      {
-        "Step 6": "Sear the stuffed chicken breasts for 2-3 minutes on each side, or until golden brown."
-      },
-      {
-        "Step 7": "Add the chicken broth or water to the skillet, then transfer it to the preheated oven."
-      },
-      {
-        "Step 8": "Bake for 20-25 minutes, or until the chicken is cooked through and no longer pink in the center."
-      },
-      {
-        "Step 9": "Remove the toothpicks from the chicken breasts before serving. Garnish with lemon wedges, if desired, and enjoy!"
-      }
-    ],
-    "image": "https://www.eatingwell.com/thmb/lAEwtQROBY8pEVjuip5Q-eSfQ3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1501p130-spinach-feta-stuffed-chicken-breasts-8030825-66b09a00be4340c6a6af32fda656319c.jpg"
-  },
-  {
-    "id": "12",
-    "title": "Tomato Basil Bruschetta",
-    "difficulty": "Easy",
-    "portion": "Serves 4",
-    "time": "Hands-on time 15 min",
-    "description": "This classic tomato basil bruschetta is a fresh and flavorful appetizer that's perfect for summer entertaining. Juicy tomatoes, fragrant basil, and garlic are piled on top of toasted bread for a simple yet elegant starter.",
-    "ingredients": [
-      "4 large ripe tomatoes, diced",
-      "2 cloves garlic, minced",
-      "Handful fresh basil leaves, chopped",
-      "2 tbsp extra virgin olive oil",
-      "1 tbsp balsamic vinegar",
-      "Salt and pepper to taste",
-      "1 baguette, sliced",
-      "1/4 cup grated Parmesan cheese (optional)"
-    ],
-    "method": [
-      {
-        "Step 1": "Preheat your oven to 375°F (190°C)."
-      },
-      {
-        "Step 2": "In a medium bowl, combine the diced tomatoes, minced garlic, chopped basil, olive oil, balsamic vinegar, salt, and pepper. Mix well to combine."
-      },
-      {
-        "Step 3": "Place the baguette slices on a baking sheet and toast in the preheated oven for 5-7 minutes, or until lightly golden and crisp."
-      },
-      {
-        "Step 4": "Remove the toasted baguette slices from the oven and top each slice with a spoonful of the tomato basil mixture."
-      },
-      {
-        "Step 5": "Sprinkle grated Parmesan cheese over the bruschetta, if desired."
-      },
-      {
-        "Step 6": "Serve the tomato basil bruschetta immediately as a delicious appetizer or light snack. Enjoy!"
-      }
-    ],
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeygTTm_OyoLKxyc7D8aA-14qKgjz9hFqBDkrEzzkyiA&s"
-  },
-  {
-    "id": "13",
-    "title": "Thai Green Curry with Vegetables",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min",
-    "description": "Transport your taste buds to Thailand with this aromatic and flavorful Thai green curry. Loaded with vegetables and simmered in a creamy coconut milk sauce, it's a satisfying and comforting dish that's perfect for any night of the week.",
-    "ingredients": [
-      "1 tbsp vegetable oil",
-      "2 tbsp Thai green curry paste",
-      "1 can (14 oz) coconut milk",
-      "1 cup vegetable broth",
-      "1 red bell pepper, sliced",
-      "1 yellow bell pepper, sliced",
-      "1 cup broccoli florets",
-      "1 cup sliced carrots",
-      "1 cup sliced mushrooms",
-      "1 cup snap peas",
-      "1 block (14 oz) firm tofu, cubed",
-      "2 tbsp soy sauce",
-      "1 tbsp brown sugar",
-      "Juice of 1 lime",
-      "Fresh cilantro leaves for garnish",
-      "Cooked rice for serving"
-    ],
-    "method": [
-      {
-        "Step 1": "In a large skillet or wok, heat the vegetable oil over medium heat."
-      },
-      {
-        "Step 2": "Add the Thai green curry paste to the skillet and cook for 1-2 minutes, stirring constantly, until fragrant."
-      },
-      {
-        "Step 3": "Pour in the coconut milk and vegetable broth, stirring to combine."
-      },
-      {
-        "Step 4": "Add the sliced bell peppers, broccoli florets, carrots, mushrooms, snap peas, and cubed tofu to the skillet. Stir to coat the vegetables and tofu in the curry sauce."
-      },
-      {
-        "Step 5": "Bring the curry to a simmer and cook for 10-15 minutes, or until the vegetables are tender and the sauce has thickened slightly."
-      },
-      {
-        "Step 6": "Stir in the soy sauce, brown sugar, and lime juice. Taste and adjust seasoning, adding more soy sauce or lime juice if desired."
-      },
-      {
-        "Step 7": "Remove the skillet from heat and garnish with fresh cilantro leaves."
-      },
-      {
-        "Step 8": "Serve the Thai green curry hot, accompanied by cooked rice. Enjoy!"
-      }
-    ],
-    "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/09/vegan-green-curry-sq-1.jpg"
-  },
-  {
-    "id": "14",
-    "title": "Quinoa Stuffed Bell Peppers",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min, Cooking time 30 min",
-    "description": "These colorful and nutritious quinoa stuffed bell peppers are a wholesome and satisfying meal that's perfect for meatless Mondays or any day of the week. Packed with protein-rich quinoa, black beans, corn, and spices, they're sure to become a family favorite.",
-    "ingredients": [
-      "4 large bell peppers, any color",
-      "1 cup quinoa, rinsed and drained",
-      "2 cups vegetable broth",
-      "1 can (15 oz) black beans, drained and rinsed",
-      "1 cup corn kernels (fresh, frozen, or canned)",
-      "1 cup diced tomatoes",
-      "1/2 cup diced red onion",
-      "2 cloves garlic, minced",
-      "1 tsp ground cumin",
-      "1 tsp chili powder",
-      "1/2 cup shredded cheddar cheese",
-      "Fresh cilantro leaves for garnish",
-      "Sour cream or Greek yogurt for serving (optional)"
-    ],
-    "method": [
-      {
-        "Step 1": "Preheat your oven to 375°F (190°C)."
-      },
-      {
-        "Step 2": "Slice the tops off the bell peppers and remove the seeds and membranes."
-      },
-      {
-        "Step 3": "In a medium saucepan, bring the vegetable broth to a boil. Add the quinoa, reduce heat to low, cover, and simmer for 15 minutes, or until quinoa is cooked and liquid is absorbed. Remove from heat and let it cool slightly."
-      },
-      {
-        "Step 4": "In a large mixing bowl, combine the cooked quinoa, black beans, corn, diced tomatoes, diced red onion, minced garlic, ground cumin, and chili powder. Mix well to combine."
-      },
-      {
-        "Step 5": "Stuff each bell pepper with the quinoa mixture, packing it tightly. Place the stuffed peppers in a baking dish."
-      },
-      {
-        "Step 6": "Cover the baking dish with foil and bake in the preheated oven for 25-30 minutes, or until the peppers are tender."
-      },
-      {
-        "Step 7": "Remove the foil from the baking dish and sprinkle shredded cheddar cheese over the stuffed peppers. Return to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly."
-      },
-      {
-        "Step 8": "Remove the stuffed peppers from the oven and let them cool slightly before serving."
-      },
-      {
-        "Step 9": "Garnish with fresh cilantro leaves and serve with sour cream or Greek yogurt on the side, if desired. Enjoy!"
-      }
-    ],
-    "image": "https://www.makingthymeforhealth.com/wp-content/uploads/2014/08/Mediterranean-Stuffed-Peppers-100.jpg"
-  },
-  {
-    "id": "15",
-    "title": "Vegetable Pad Thai",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min",
-    "description": "Indulge in the bold flavors of Thailand with this irresistible vegetable pad Thai. Loaded with colorful vegetables, tender rice noodles, and a tangy tamarind sauce, it's a delicious and satisfying meal that's sure to please.",
-    "ingredients": [
-      "8 oz (225g) rice noodles",
-      "2 tbsp vegetable oil",
-      "2 cloves garlic, minced",
-      "2 shallots, thinly sliced",
-      "2 cups mixed vegetables (such as bell peppers, carrots, snap peas, broccoli)",
-      "1 cup bean sprouts",
-      "2 eggs, beaten",
-      "1/4 cup roasted peanuts, chopped",
-      "2 green onions, sliced",
-      "Fresh cilantro leaves for garnish",
-      "Lime wedges for serving"
-    ],
-    "method": [
-      {
-        "Step 1": "Cook the rice noodles according to the package instructions until al dente. Drain and set aside."
-      },
-      {
-        "Step 2": "In a large skillet or wok, heat the vegetable oil over medium-high heat."
-      },
-      {
-        "Step 3": "Add the minced garlic and thinly sliced shallots to the skillet and cook for 1-2 minutes, or until fragrant."
-      },
-      {
-        "Step 4": "Add the mixed vegetables to the skillet and stir-fry for 5-7 minutes, or until tender-crisp."
-      },
-      {
-        "Step 5": "Push the vegetables to one side of the skillet and pour the beaten eggs into the empty space. Scramble the eggs until cooked through, then stir to combine with the vegetables."
-      },
-      {
-        "Step 6": "Add the cooked rice noodles to the skillet, along with the bean sprouts and chopped peanuts. Toss everything together until well combined."
-      },
-      {
-        "Step 7": "Pour the tamarind sauce over the noodles and vegetables, tossing to coat evenly. Cook for an additional 2-3 minutes, or until heated through."
-      },
-      {
-        "Step 8": "Remove the skillet from heat and garnish with sliced green onions and fresh cilantro leaves."
-      },
-      {
-        "Step 9": "Serve the vegetable pad Thai hot, accompanied by lime wedges for squeezing over the noodles. Enjoy!"
-      }
-    ],
-    "image": "https://example.com/vegetable_pad_thai.jpg"
-  },
-  {
-    "id": "16",
-    "title": "Mediterranean Chickpea Salad",
-    "difficulty": "Easy",
-    "portion": "Serves 4",
-    "time": "Hands-on time 15 min",
-    "description": "This vibrant and flavorful Mediterranean chickpea salad is a refreshing and satisfying dish that's perfect for summer picnics, potlucks, or as a light lunch or dinner. Packed with protein-rich chickpeas, crisp vegetables, and tangy feta cheese, it's sure to become a favorite.",
-    "ingredients": [
-      "2 cans (15 oz each) chickpeas, drained and rinsed",
-      "1 cup cherry tomatoes, halved",
-      "1 cucumber, diced",
-      "1/2 red onion, thinly sliced",
-      "1/2 cup Kalamata olives, pitted and halved",
-      "1/2 cup crumbled feta cheese",
-      "Handful fresh parsley, chopped",
-      "2 tbsp extra virgin olive oil",
-      "2 tbsp red wine vinegar",
-      "1 tsp dried oregano",
-      "Salt and pepper to taste",
-      "Lemon wedges for serving (optional)"
-    ],
-    "method": [
-      {
-        "Step 1": "In a large mixing bowl, combine the chickpeas, cherry tomatoes, diced cucumber, thinly sliced red onion, halved Kalamata olives, crumbled feta cheese, and chopped fresh parsley."
-      },
-      {
-        "Step 2": "In a small bowl, whisk together the extra virgin olive oil, red wine vinegar, dried oregano, salt, and pepper."
-      },
-      {
-        "Step 3": "Pour the dressing over the chickpea salad and toss to coat evenly."
-      },
-      {
-        "Step 4": "Taste and adjust seasoning, adding more salt and pepper if desired."
-      },
-      {
-        "Step 5": "Serve the Mediterranean chickpea salad cold or at room temperature, accompanied by lemon wedges for squeezing over the salad if desired. Enjoy!"
-      }
-    ],
-    "image": "https://pinchofyum.com/wp-content/uploads/Vegetarian-Pad-Thai-Recipe.jpg"
-  },
-  {
-    "id": "17",
-    "title": "Sushi Rolls",
-    "difficulty": "Intermediate",
-    "portion": "Makes 4 rolls",
-    "time": "Hands-on time 45 min",
-    "description": "Learn how to make your own sushi rolls at home with this step-by-step guide. With just a few simple ingredients and a little practice, you can create delicious and beautiful sushi rolls that rival your favorite sushi restaurant.",
-    "ingredients": [
-      "4 sheets nori (seaweed)",
-      "2 cups sushi rice, cooked and seasoned",
-      "Assorted fillings (such as cucumber, avocado, crab stick, smoked salmon, tuna)",
-      "Soy sauce, pickled ginger, and wasabi for serving"
-    ],
-    "method": [
-      {
-        "Step 1": "Place a sheet of nori shiny side down on a bamboo sushi mat or a clean kitchen towel."
-      },
-      {
-        "Step 2": "Spread a thin layer of sushi rice evenly over the nori, leaving a 1-inch border along the top edge."
-      },
-      {
-        "Step 3": "Arrange your desired fillings in a line across the center of the rice."
-      },
-      {
-        "Step 4": "Starting from the bottom edge, tightly roll up the nori and rice, using the sushi mat or kitchen towel to help shape the roll."
-      },
-      {
-        "Step 5": "Moisten the top edge of the nori with a little water to seal the roll."
-      },
-      {
-        "Step 6": "Using a sharp knife, slice the roll into 6-8 pieces."
-      },
-      {
-        "Step 7": "Repeat the process with the remaining nori, rice, and fillings until you have 4 rolls."
-      },
-      {
-        "Step 8": "Serve the sushi rolls with soy sauce, pickled ginger, and wasabi on the side. Enjoy!"
-      }
-    ],
-    "image": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg"
-  },
-  {
-    "id": "18",
-    "title": "Ratatouille",
-    "difficulty": "Intermediate",
-    "portion": "Serves 6",
-    "time": "Hands-on time 30 min, Cooking time 1 hr",
-    "description": "This classic French ratatouille is a hearty and flavorful vegetable stew that's perfect for showcasing the bounty of summer produce. Layers of tender eggplant, zucchini, bell peppers, and tomatoes are simmered in a fragrant herb and garlic-infused tomato sauce until melt-in-your-mouth delicious.",
-    "ingredients": [
-      "1 large eggplant, diced",
-      "2 zucchini, diced",
-      "2 bell peppers (red, yellow, or orange), diced",
-      "1 onion, diced",
-      "4 cloves garlic, minced",
-      "4 tomatoes, diced",
-      "2 tbsp tomato paste",
-      "2 tbsp extra virgin olive oil",
-      "1 tsp dried thyme",
-      "1 tsp dried oregano",
-      "Salt and pepper to taste",
-      "Fresh basil leaves for garnish"
-    ],
-    "method": [
-      {
-        "Step 1": "Heat the olive oil in a large Dutch oven or heavy-bottomed pot over medium heat."
-      },
-      {
-        "Step 2": "Add the diced onion to the pot and cook for 3-4 minutes, or until softened."
-      },
-      {
-        "Step 3": "Add the minced garlic to the pot and cook for an additional minute, or until fragrant."
-      },
-      {
-        "Step 4": "Stir in the diced eggplant, zucchini, and bell peppers, along with the dried thyme and oregano. Cook for 8-10 minutes, stirring occasionally, until the vegetables start to soften."
-      },
-      {
-        "Step 5": "Add the diced tomatoes and tomato paste to the pot, stirring to combine. Season with salt and pepper to taste."
-      },
-      {
-        "Step 6": "Reduce heat to low, cover, and simmer the ratatouille for 30-40 minutes, stirring occasionally, until the vegetables are tender and the flavors have melded together."
-      },
-      {
-        "Step 7": "Taste and adjust seasoning if necessary. Garnish with fresh basil leaves before serving."
-      },
-      {
-        "Step 8": "Serve the ratatouille hot or at room temperature, accompanied by crusty bread or cooked grains. Enjoy!"
-      }
-    ],
-    "image": "https://www.howtocook.recipes/wp-content/uploads/2021/05/Ratatouille-recipe.jpg"
-  },
-  {
-    "id": "19",
-    "title": "Mushroom Risotto",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min, Cooking time 30 min",
-    "description": "Indulge in the creamy comfort of mushroom risotto with this delicious recipe. Arborio rice is simmered in a flavorful broth until perfectly al dente, then combined with sautéed mushrooms, garlic, and Parmesan cheese for a rich and satisfying dish that's perfect for any occasion.",
-    "ingredients": [
-      "1 cup Arborio rice",
-      "4 cups vegetable or chicken broth",
-      "2 tbsp unsalted butter",
-      "2 tbsp olive oil",
-      "1 onion, finely chopped",
-      "2 cloves garlic, minced",
-      "8 oz (225g) mushrooms (such as cremini or button), sliced",
-      "1/2 cup dry white wine (optional)",
-      "1/2 cup grated Parmesan cheese",
-      "Salt and pepper to taste",
-      "Fresh parsley for garnish"
-    ],
-    "method": [
-      {
-        "Step 1": "In a medium saucepan, heat the vegetable or chicken broth over low heat until warm. Keep warm while you prepare the risotto."
-      },
-      {
-        "Step 2": "In a large skillet or Dutch oven, heat the olive oil and butter over medium heat."
-      },
-      {
-        "Step 3": "Add the finely chopped onion to the skillet and cook for 3-4 minutes, or until softened."
-      },
-      {
-        "Step 4": "Add the minced garlic to the skillet and cook for an additional minute, or until fragrant."
-      },
-      {
-        "Step 5": "Add the sliced mushrooms to the skillet and cook for 5-7 minutes, or until they release their moisture and start to brown."
-      },
-      {
-        "Step 6": "Stir in the Arborio rice and cook for 1-2 minutes, stirring constantly, until the rice is lightly toasted."
-      },
-      {
-        "Step 7": "If using, pour in the dry white wine and cook until the liquid is absorbed, stirring occasionally."
-      },
-      {
-        "Step 8": "Begin adding the warm broth to the skillet, one ladleful at a time, stirring constantly and allowing each addition to be absorbed before adding more."
-      },
-      {
-        "Step 9": "Continue cooking the risotto in this manner until the rice is creamy and al dente, about 20-25 minutes."
-      },
-      {
-        "Step 10": "Stir in the grated Parmesan cheese and season with salt and pepper to taste."
-      },
-      {
-        "Step 11": "Remove the skillet from heat and let the risotto rest for a few minutes before serving."
-      },
-      {
-        "Step 12": "Garnish the mushroom risotto with fresh parsley before serving. Enjoy!"
-      }
-    ],
-    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/mushroom-risotto.jpg"
-  },
-  {
-    "id": "20",
-    "title": "Chicken Tikka Masala",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min, Cooking time 30 min",
-    "description": "Transport your taste buds to India with this rich and flavorful chicken tikka masala. Tender pieces of marinated chicken are simmered in a creamy tomato-based sauce infused with fragrant spices for a delicious and comforting meal that's perfect served over rice or with naan bread.",
-    "ingredients": [
-      "1 lb (450g) boneless, skinless chicken breasts, cut into bite-sized pieces",
-      "1 cup plain yogurt",
-      "2 cloves garlic, minced",
-      "1 inch piece ginger, grated",
-      "1 tsp ground cumin",
-      "1 tsp ground coriander",
-      "1/2 tsp ground turmeric",
-      "1/2 tsp cayenne pepper",
-      "1/2 tsp smoked paprika",
-      "Salt and pepper to taste",
-      "2 tbsp vegetable oil",
-      "1 onion, finely chopped",
-      "2 cloves garlic, minced",
-      "1 inch piece ginger, grated",
-      "1 can (14 oz) crushed tomatoes",
-      "1 cup heavy cream",
-      "2 tsp garam masala",
-      "Fresh cilantro leaves for garnish",
-      "Cooked rice or naan bread for serving"
-    ],
-    "method": [
-      {
-        "Step 1": "In a large mixing bowl, combine the plain yogurt, minced garlic, grated ginger, ground cumin, ground coriander, ground turmeric, cayenne pepper, smoked paprika, salt, and pepper."
-      },
-      {
-        "Step 2": "Add the bite-sized chicken pieces to the yogurt marinade, stirring to coat evenly. Cover and refrigerate for at least 1 hour, or overnight for best results."
-      },
-      {
-        "Step 3": "Heat the vegetable oil in a large skillet or Dutch oven over medium heat."
-      },
-      {
-        "Step 4": "Add the finely chopped onion to the skillet and cook for 3-4 minutes, or until softened."
-      },
-      {
-        "Step 5": "Add the minced garlic and grated ginger to the skillet and cook for an additional minute, or until fragrant."
-      },
-      {
-        "Step 6": "Add the marinated chicken pieces to the skillet, discarding any excess marinade. Cook for 5-7 minutes, or until the chicken is browned on all sides."
-      },
-      {
-        "Step 7": "Stir in the crushed tomatoes and heavy cream, stirring to combine."
-      },
-      {
-        "Step 8": "Reduce heat to low and simmer the chicken tikka masala for 15-20 minutes, stirring occasionally, until the chicken is cooked through and the sauce has thickened slightly."
-      },
-      {
-        "Step 9": "Stir in the garam masala and season with additional salt and pepper to taste."
-      },
-      {
-        "Step 10": "Remove the skillet from heat and garnish with fresh cilantro leaves before serving."
-      },
-      {
-        "Step 11": "Serve the chicken tikka masala hot, accompanied by cooked rice or naan bread. Enjoy!"
-      }
-    ],
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk25VmJEIhWjo2V2pE4xBlAAptthKyyDygek0L-sFmZA&s"
-  },
-  {
-    "id": "21",
-    "title": "Classic Beef Lasagna",
-    "difficulty": "Intermediate",
-    "portion": "Serves 8",
-    "time": "Hands-on time 45 min, Cooking time 1 hr",
-    "description": "Treat your family to a comforting and hearty meal with this classic beef lasagna recipe. Layers of tender lasagna noodles, savory beef and tomato sauce, creamy ricotta cheese, and melted mozzarella come together in this delicious and satisfying dish that's perfect for any occasion.",
-    "ingredients": [
-      "1 lb (450g) lean ground beef",
-      "1 onion, finely chopped",
-      "2 cloves garlic, minced",
-      "1 can (14 oz) crushed tomatoes",
-      "1 can (6 oz) tomato paste",
-      "1 cup beef broth",
-      "1 tsp dried basil",
-      "1 tsp dried oregano",
-      "Salt and pepper to taste",
-      "12 lasagna noodles, cooked according to package instructions",
-      "2 cups ricotta cheese",
-      "2 cups shredded mozzarella cheese",
-      "1/2 cup grated Parmesan cheese",
-      "Fresh parsley for garnish"
-    ],
-    "method": [
-      {
-        "Step 1": "Preheat your oven to 375°F (190°C)."
-      },
-      {
-        "Step 2": "In a large skillet, cook the ground beef over medium heat until browned."
-      },
-      {
-        "Step 3": "Add the finely chopped onion and minced garlic to the skillet and cook for 3-4 minutes, or until softened."
-      },
-      {
-        "Step 4": "Stir in the crushed tomatoes, tomato paste, beef broth, dried basil, and dried oregano. Season with salt and pepper to taste."
-      },
-      {
-        "Step 5": "Simmer the beef and tomato sauce for 15-20 minutes, stirring occasionally, until thickened."
-      },
-      {
-        "Step 6": "Spread a thin layer of the beef and tomato sauce in the bottom of a 9x13-inch baking dish."
-      },
-      {
-        "Step 7": "Arrange a layer of cooked lasagna noodles over the sauce, followed by a layer of ricotta cheese and shredded mozzarella cheese."
-      },
-      {
-        "Step 8": "Repeat the layers until all ingredients are used, ending with a layer of sauce on top."
-      },
-      {
-        "Step 9": "Sprinkle grated Parmesan cheese over the top of the lasagna."
-      },
-      {
-        "Step 10": "Cover the baking dish with foil and bake in the preheated oven for 30 minutes."
-      },
-      {
-        "Step 11": "Remove the foil and bake for an additional 15 minutes, or until the cheese is melted and bubbly."
-      },
-      {
-        "Step 12": "Remove the lasagna from the oven and let it rest for a few minutes before serving."
-      },
-      {
-        "Step 13": "Garnish with fresh parsley before serving. Enjoy!"
-      }
-    ],
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrh7kjM6woKM1AjT7ug6ekMZ2U7dDCcyYgKtQXWgnC5A&s"
-  },
-  {
-    "id": "22",
-    "title": "Ugali with Sukuma Wiki and Nyama Choma",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min, Cooking time 1 hr",
-    "description": "Ugali with sukuma wiki and nyama choma is a classic Kenyan dish that combines hearty cornmeal porridge with sautéed collard greens and grilled meat. It's a staple meal in Kenyan cuisine, loved for its simplicity and comforting flavors.",
-    "ingredients": [
-      "2 cups maize flour (cornmeal)",
-      "4 cups water",
-      "1 bunch sukuma wiki (collard greens), finely chopped",
-      "1 onion, finely chopped",
-      "2 tomatoes, chopped",
-      "2 cloves garlic, minced",
-      "1 tbsp vegetable oil",
-      "Salt to taste",
-      "1 kg nyama choma (grilled meat), such as beef or goat, sliced"
-    ],
-    "method": [
-      {
-        "Step 1": "In a large pot, bring the water to a boil."
-      },
-      {
-        "Step 2": "Gradually add the maize flour to the boiling water, stirring continuously to prevent lumps from forming."
-      },
-      {
-        "Step 3": "Reduce the heat to low and continue to cook the ugali, stirring constantly, until it thickens and pulls away from the sides of the pot."
-      },
-      {
-        "Step 4": "Remove the pot from heat and let the ugali cool slightly before serving."
-      },
-      {
-        "Step 5": "In a separate pan, heat the vegetable oil over medium heat."
-      },
-      {
-        "Step 6": "Add the chopped onion and minced garlic to the pan and sauté until softened."
-      },
-      {
-        "Step 7": "Add the chopped tomatoes to the pan and cook until they start to break down."
-      },
-      {
-        "Step 8": "Add the finely chopped sukuma wiki to the pan and cook until wilted."
-      },
-      {
-        "Step 9": "Season the sukuma wiki with salt to taste and remove from heat."
-      },
-      {
-        "Step 10": "Serve the warm ugali with sukuma wiki and slices of nyama choma. Enjoy!"
-      }
-    ],
-    "image": "https://miro.medium.com/v2/resize:fit:600/1*2t-UZ6cZhrNfOs1pOj6cPA.jpeg"
-  },
-  {
-    "id": "23",
-    "title": "Pilau Rice",
-    "difficulty": "Intermediate",
-    "portion": "Serves 6",
-    "time": "Hands-on time 30 min, Cooking time 45 min",
-    "description": "Pilau rice is a fragrant and flavorful dish that's popular in Kenyan cuisine. Made with rice cooked in a spiced broth with meat, vegetables, and aromatics, it's a comforting and satisfying meal that's perfect for gatherings and special occasions.",
-    "ingredients": [
-      "2 cups basmati rice, rinsed and drained",
-      "500g boneless chicken or beef, cut into bite-sized pieces",
-      "2 onions, finely chopped",
-      "3 tomatoes, chopped",
-      "2 cloves garlic, minced",
-      "1 inch ginger, grated",
-      "2 cups beef or chicken broth",
-      "1/4 cup vegetable oil",
-      "2 tbsp pilau masala (or a mixture of ground cumin, coriander, cardamom, cloves, and cinnamon)",
-      "Salt to taste",
-      "Fresh cilantro leaves for garnish"
-    ],
-    "method": [
-      {
-        "Step 1": "In a large pot or Dutch oven, heat the vegetable oil over medium heat."
-      },
-      {
-        "Step 2": "Add the chopped onions to the pot and sauté until softened."
-      },
-      {
-        "Step 3": "Add the minced garlic and grated ginger to the pot and cook until fragrant."
-      },
-      {
-        "Step 4": "Add the chopped tomatoes to the pot and cook until they start to break down."
-      },
-      {
-        "Step 5": "Stir in the pilau masala and cook for another minute to toast the spices."
-      },
-      {
-        "Step 6": "Add the bite-sized pieces of chicken or beef to the pot and brown on all sides."
-      },
-      {
-        "Step 7": "Pour in the beef or chicken broth and bring to a simmer."
-      },
-      {
-        "Step 8": "Add the rinsed basmati rice to the pot and stir to combine."
-      },
-      {
-        "Step 9": "Cover the pot and reduce heat to low. Cook for 20-25 minutes, or until the rice is tender and the liquid is absorbed."
-      },
-      {
-        "Step 10": "Fluff the pilau rice with a fork and garnish with fresh cilantro leaves before serving. Enjoy!"
-      }
-    ],
-    "image": "https://recipes.net/wp-content/uploads/2021/10/pilau-rice-recipe-1024x576.jpg"
-  },
-  {
-    "id": "25",
-    "title": "Mandazi (Kenyan Donuts)",
-    "difficulty": "Intermediate",
-    "portion": "Makes 12 donuts",
-    "time": "Hands-on time 20 min, Cooking time 15 min",
-    "description": "Mandazi, also known as Swahili donuts, are a popular East African snack that's enjoyed with tea or coffee. These soft and pillowy fried donuts are flavored with coconut milk and spices, making them irresistible treats for any time of day.",
-    "ingredients": [
-      "2 cups all-purpose flour",
-      "1/4 cup sugar",
-      "1 tsp baking powder",
-      "1/4 tsp salt",
-      "1/2 tsp ground cardamom",
-      "1/4 tsp ground cinnamon",
-      "1/4 cup coconut milk",
-      "1/4 cup water",
-      "2 tbsp melted butter or vegetable oil",
-      "Oil for frying",
-      "Powdered sugar for dusting"
-    ],
-    "method": [
-      {
-        "Step 1": "In a large mixing bowl, combine the all-purpose flour, sugar, baking powder, salt, ground cardamom, and ground cinnamon."
-      },
-      {
-        "Step 2": "Add the coconut milk, water, and melted butter or vegetable oil to the dry ingredients. Mix until a soft dough forms."
-      },
-      {
-        "Step 3": "Turn the dough out onto a floured surface and knead until smooth and elastic, about 5 minutes."
-      },
-      {
-        "Step 4": "Divide the dough into 12 equal portions and shape each portion into a ball."
-      },
-      {
-        "Step 5": "Heat oil in a deep frying pan or pot over medium heat until it reaches 350°F (180°C)."
-      },
-      {
-        "Step 6": "Flatten each dough ball into a disc about 1/4 inch thick."
-      },
-      {
-        "Step 7": "Carefully place the flattened dough discs into the hot oil, frying in batches to avoid overcrowding."
-      },
-      {
-        "Step 8": "Fry the mandazi for 2-3 minutes on each side, or until golden brown and cooked through."
-      },
-      {
-        "Step 9": "Remove the fried mandazi from the oil and drain on paper towels to remove excess oil."
-      },
-      {
-        "Step 10": "Dust the warm mandazi with powdered sugar before serving. Enjoy!"
-      }
-    ],
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGoGVTsW5Xo4wi4FkciSpSrc-tAziBFHOlckehgP6aTA&s"
-  }
-]
+  "recipes": [
+    {
+      "id": "5",
+      "title": "Vegetarian Quinoa Salad",
+      "difficulty": "Medium",
+      "portion": "Serves 2",
+      "time": "Hands-on time 20 min",
+      "description": "This colorful and nutritious vegetarian quinoa salad is perfect for a light lunch or dinner. Packed with protein from quinoa and chickpeas, and loaded with fresh veggies, it's a satisfying and healthy meal option.",
+      "ingredients": [
+        "1 cup quinoa, rinsed and drained",
+        "1 1/2 cups water or vegetable broth",
+        "1 can (400g) chickpeas, drained and rinsed",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cucumber, diced",
+        "1/4 cup red onion, finely chopped",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh mint leaves, chopped",
+        "Juice of 1 lemon",
+        "2 tbsp extra virgin olive oil",
+        "Salt and pepper to taste",
+        "Crumbled feta cheese for serving (optional)"
+      ],
+      "method": [
+        {
+          "Step 1": "In a medium saucepan, bring the water or vegetable broth to a boil. Add the quinoa, reduce heat to low, cover, and simmer for 15 minutes, or until quinoa is cooked and liquid is absorbed. Remove from heat and let it cool."
+        },
+        {
+          "Step 2": "In a large mixing bowl, combine the cooked quinoa, chickpeas, cherry tomatoes, cucumber, red onion, parsley, and mint."
+        },
+        {
+          "Step 3": "In a small bowl, whisk together the lemon juice, olive oil, salt, and pepper. Pour the dressing over the quinoa salad and toss to coat evenly."
+        },
+        {
+          "Step 4": "Divide the salad into serving bowls and sprinkle with crumbled feta cheese, if desired. Serve immediately or refrigerate until ready to serve."
+        }
+      ],
+      "image": "https://thekitchengirl.com/wp-content/uploads/vegetable-quinoa-salad-recipe-B_69.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Lemon Garlic Roast Chicken",
+      "difficulty": "Easy",
+      "portion": "Serves 6",
+      "time": "Hands-on time 15 min, Cooking time 1 hr 30 min",
+      "description": "This lemon garlic roast chicken is juicy, flavorful, and incredibly simple to make. With just a few ingredients, you'll have a delicious and comforting meal that's perfect for any occasion.",
+      "ingredients": [
+        "1 whole chicken (about 4-5 lbs)",
+        "4 cloves garlic, minced",
+        "1 lemon, sliced",
+        "2 tbsp olive oil",
+        "1 tsp dried thyme",
+        "1 tsp dried rosemary",
+        "Salt and pepper to taste"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat your oven to 375°F (190°C)."
+        },
+        {
+          "Step 2": "In a small bowl, mix together the minced garlic, olive oil, dried thyme, dried rosemary, salt, and pepper."
+        },
+        {
+          "Step 3": "Pat the chicken dry with paper towels. Rub the garlic herb mixture all over the chicken, including under the skin and inside the cavity."
+        },
+        {
+          "Step 4": "Place the lemon slices inside the cavity of the chicken."
+        },
+        {
+          "Step 5": "Transfer the chicken to a roasting pan or baking dish. Roast in the preheated oven for about 1 hour 30 minutes, or until the internal temperature of the chicken reaches 165°F (75°C) and the skin is golden brown and crispy."
+        },
+        {
+          "Step 6": "Once cooked, remove the chicken from the oven and let it rest for 10-15 minutes before carving. Serve hot and enjoy!"
+        }
+      ],
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/12/0/FN_Ina-Garten-Lemon-and-Garlic-Roast-Chicken_s4x3.jpg.rend.hgtvcom.616.462.suffix/1384540888558.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Caprese Salad",
+      "difficulty": "Easy",
+      "portion": "Serves 2",
+      "time": "Hands-on time 10 min",
+      "description": "Enjoy the flavors of Italy with this simple and refreshing Caprese salad. Fresh tomatoes, creamy mozzarella, and fragrant basil come together with a drizzle of balsamic glaze for a delightful appetizer or side dish.",
+      "ingredients": [
+        "2 large ripe tomatoes, sliced",
+        "1 ball fresh mozzarella cheese, sliced",
+        "Handful fresh basil leaves",
+        "2 tbsp balsamic glaze",
+        "2 tbsp extra virgin olive oil",
+        "Salt and pepper to taste"
+      ],
+      "method": [
+        {
+          "Step 1": "Arrange the sliced tomatoes and mozzarella on a serving platter, alternating them."
+        },
+        {
+          "Step 2": "Tuck fresh basil leaves between the tomato and mozzarella slices."
+        },
+        {
+          "Step 3": "Drizzle the salad with balsamic glaze and olive oil."
+        },
+        {
+          "Step 4": "Season with salt and pepper to taste."
+        },
+        {
+          "Step 5": "Serve immediately as a light and refreshing appetizer or side dish. Enjoy!"
+        }
+      ],
+      "image": "https://natashaskitchen.com/wp-content/uploads/2019/08/Caprese-Salad-6.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Pesto Pasta with Cherry Tomatoes",
+      "difficulty": "Easy",
+      "portion": "Serves 4",
+      "time": "Hands-on time 20 min",
+      "description": "This vibrant and flavorful pesto pasta with cherry tomatoes is a quick and easy meal that's perfect for busy weeknights. With just a handful of ingredients, you can have a delicious dinner on the table in no time.",
+      "ingredients": [
+        "12 oz (340g) spaghetti or your favorite pasta",
+        "1/2 cup basil pesto",
+        "1 pint cherry tomatoes, halved",
+        "2 cloves garlic, minced",
+        "1/4 cup grated Parmesan cheese",
+        "2 tbsp extra virgin olive oil",
+        "Salt and pepper to taste",
+        "Fresh basil leaves for garnish"
+      ],
+      "method": [
+        {
+          "Step 1": "Cook the pasta according to the package instructions until al dente. Reserve 1/2 cup of pasta water, then drain the pasta."
+        },
+        {
+          "Step 2": "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes, or until fragrant."
+        },
+        {
+          "Step 3": "Add the halved cherry tomatoes to the skillet and cook for 3-4 minutes, or until they start to soften."
+        },
+        {
+          "Step 4": "Stir in the basil pesto and cooked pasta, tossing until well combined. If the pasta seems dry, add some of the reserved pasta water to loosen it up."
+        },
+        {
+          "Step 5": "Cook for an additional 1-2 minutes, then remove from heat."
+        },
+        {
+          "Step 6": "Serve the pesto pasta hot, garnished with grated Parmesan cheese and fresh basil leaves. Enjoy!"
+        }
+      ],
+      "image": "https://www.italianfoodforever.com/wp-content/uploads/2015/07/pestopasta4-480x360.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Vegetable Stir-Fry",
+      "difficulty": "Easy",
+      "portion": "Serves 2-3",
+      "time": "Hands-on time 20 min",
+      "description": "This colorful and flavorful vegetable stir-fry is a quick and healthy meal that's perfect for busy weeknights. Loaded with a variety of fresh vegetables and tossed in a savory sauce, it's sure to become a favorite.",
+      "ingredients": [
+        "2 cups mixed vegetables (such as bell peppers, broccoli, carrots, snap peas)",
+        "2 tbsp vegetable oil",
+        "2 cloves garlic, minced",
+        "1 inch piece ginger, minced",
+        "1/4 cup soy sauce",
+        "2 tbsp hoisin sauce",
+        "1 tbsp rice vinegar",
+        "1 tbsp sesame oil",
+        "2 green onions, sliced",
+        "Cooked rice or noodles for serving"
+      ],
+      "method": [
+        {
+          "Step 1": "Heat the vegetable oil in a large skillet or wok over medium-high heat."
+        },
+        {
+          "Step 2": "Add the minced garlic and ginger to the skillet and cook for 1-2 minutes, or until fragrant."
+        },
+        {
+          "Step 3": "Add the mixed vegetables to the skillet and stir-fry for 5-7 minutes, or until tender-crisp."
+        },
+        {
+          "Step 4": "In a small bowl, whisk together the soy sauce, hoisin sauce, rice vinegar, and sesame oil."
+        },
+        {
+          "Step 5": "Pour the sauce over the vegetables in the skillet and toss to coat evenly."
+        },
+        {
+          "Step 6": "Cook for an additional 1-2 minutes, then remove from heat."
+        },
+        {
+          "Step 7": "Serve the vegetable stir-fry hot, garnished with sliced green onions, and accompanied by cooked rice or noodles. Enjoy!"
+        }
+      ],
+      "image": "https://www.dinneratthezoo.com/wp-content/uploads/2019/02/vegetable-stir-fry-3.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Spinach and Feta Stuffed Chicken Breast",
+      "difficulty": "Intermediate",
+      "portion": "Serves 2",
+      "time": "Hands-on time 25 min, Cooking time 25 min",
+      "description": "Impress your dinner guests with these elegant spinach and feta stuffed chicken breasts. Tender chicken breasts are filled with a savory mixture of spinach, feta cheese, and herbs, then baked to perfection. It's a restaurant-quality dish that's surprisingly easy to make at home.",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "2 cups fresh spinach leaves",
+        "1/2 cup crumbled feta cheese",
+        "2 cloves garlic, minced",
+        "1 tsp dried oregano",
+        "1 tsp dried thyme",
+        "Salt and pepper to taste",
+        "1 tbsp olive oil",
+        "1/4 cup chicken broth or water",
+        "Lemon wedges for serving (optional)"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat your oven to 375°F (190°C)."
+        },
+        {
+          "Step 2": "Using a sharp knife, make a horizontal slit along the side of each chicken breast to create a pocket."
+        },
+        {
+          "Step 3": "In a small bowl, mix together the spinach, feta cheese, minced garlic, dried oregano, dried thyme, salt, and pepper."
+        },
+        {
+          "Step 4": "Stuff each chicken breast with the spinach and feta mixture, then secure the openings with toothpicks."
+        },
+        {
+          "Step 5": "Heat the olive oil in an oven-safe skillet over medium-high heat."
+        },
+        {
+          "Step 6": "Sear the stuffed chicken breasts for 2-3 minutes on each side, or until golden brown."
+        },
+        {
+          "Step 7": "Add the chicken broth or water to the skillet, then transfer it to the preheated oven."
+        },
+        {
+          "Step 8": "Bake for 20-25 minutes, or until the chicken is cooked through and no longer pink in the center."
+        },
+        {
+          "Step 9": "Remove the toothpicks from the chicken breasts before serving. Garnish with lemon wedges, if desired, and enjoy!"
+        }
+      ],
+      "image": "https://www.eatingwell.com/thmb/lAEwtQROBY8pEVjuip5Q-eSfQ3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1501p130-spinach-feta-stuffed-chicken-breasts-8030825-66b09a00be4340c6a6af32fda656319c.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Tomato Basil Bruschetta",
+      "difficulty": "Easy",
+      "portion": "Serves 4",
+      "time": "Hands-on time 15 min",
+      "description": "This classic tomato basil bruschetta is a fresh and flavorful appetizer that's perfect for summer entertaining. Juicy tomatoes, fragrant basil, and garlic are piled on top of toasted bread for a simple yet elegant starter.",
+      "ingredients": [
+        "4 large ripe tomatoes, diced",
+        "2 cloves garlic, minced",
+        "Handful fresh basil leaves, chopped",
+        "2 tbsp extra virgin olive oil",
+        "1 tbsp balsamic vinegar",
+        "Salt and pepper to taste",
+        "1 baguette, sliced",
+        "1/4 cup grated Parmesan cheese (optional)"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat your oven to 375°F (190°C)."
+        },
+        {
+          "Step 2": "In a medium bowl, combine the diced tomatoes, minced garlic, chopped basil, olive oil, balsamic vinegar, salt, and pepper. Mix well to combine."
+        },
+        {
+          "Step 3": "Place the baguette slices on a baking sheet and toast in the preheated oven for 5-7 minutes, or until lightly golden and crisp."
+        },
+        {
+          "Step 4": "Remove the toasted baguette slices from the oven and top each slice with a spoonful of the tomato basil mixture."
+        },
+        {
+          "Step 5": "Sprinkle grated Parmesan cheese over the bruschetta, if desired."
+        },
+        {
+          "Step 6": "Serve the tomato basil bruschetta immediately as a delicious appetizer or light snack. Enjoy!"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeygTTm_OyoLKxyc7D8aA-14qKgjz9hFqBDkrEzzkyiA&s"
+    },
+    {
+      "id": "13",
+      "title": "Thai Green Curry with Vegetables",
+      "difficulty": "Intermediate",
+      "portion": "Serves 4",
+      "time": "Hands-on time 30 min",
+      "description": "Transport your taste buds to Thailand with this aromatic and flavorful Thai green curry. Loaded with vegetables and simmered in a creamy coconut milk sauce, it's a satisfying and comforting dish that's perfect for any night of the week.",
+      "ingredients": [
+        "1 tbsp vegetable oil",
+        "2 tbsp Thai green curry paste",
+        "1 can (14 oz) coconut milk",
+        "1 cup vegetable broth",
+        "1 red bell pepper, sliced",
+        "1 yellow bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1 cup sliced carrots",
+        "1 cup sliced mushrooms",
+        "1 cup snap peas",
+        "1 block (14 oz) firm tofu, cubed",
+        "2 tbsp soy sauce",
+        "1 tbsp brown sugar",
+        "Juice of 1 lime",
+        "Fresh cilantro leaves for garnish",
+        "Cooked rice for serving"
+      ],
+      "method": [
+        {
+          "Step 1": "In a large skillet or wok, heat the vegetable oil over medium heat."
+        },
+        {
+          "Step 2": "Add the Thai green curry paste to the skillet and cook for 1-2 minutes, stirring constantly, until fragrant."
+        },
+        {
+          "Step 3": "Pour in the coconut milk and vegetable broth, stirring to combine."
+        },
+        {
+          "Step 4": "Add the sliced bell peppers, broccoli florets, carrots, mushrooms, snap peas, and cubed tofu to the skillet. Stir to coat the vegetables and tofu in the curry sauce."
+        },
+        {
+          "Step 5": "Bring the curry to a simmer and cook for 10-15 minutes, or until the vegetables are tender and the sauce has thickened slightly."
+        },
+        {
+          "Step 6": "Stir in the soy sauce, brown sugar, and lime juice. Taste and adjust seasoning, adding more soy sauce or lime juice if desired."
+        },
+        {
+          "Step 7": "Remove the skillet from heat and garnish with fresh cilantro leaves."
+        },
+        {
+          "Step 8": "Serve the Thai green curry hot, accompanied by cooked rice. Enjoy!"
+        }
+      ],
+      "image": "https://hot-thai-kitchen.com/wp-content/uploads/2022/09/vegan-green-curry-sq-1.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Quinoa Stuffed Bell Peppers",
+      "difficulty": "Intermediate",
+      "portion": "Serves 4",
+      "time": "Hands-on time 30 min, Cooking time 30 min",
+      "description": "These colorful and nutritious quinoa stuffed bell peppers are a wholesome and satisfying meal that's perfect for meatless Mondays or any day of the week. Packed with protein-rich quinoa, black beans, corn, and spices, they're sure to become a family favorite.",
+      "ingredients": [
+        "4 large bell peppers, any color",
+        "1 cup quinoa, rinsed and drained",
+        "2 cups vegetable broth",
+        "1 can (15 oz) black beans, drained and rinsed",
+        "1 cup corn kernels (fresh, frozen, or canned)",
+        "1 cup diced tomatoes",
+        "1/2 cup diced red onion",
+        "2 cloves garlic, minced",
+        "1 tsp ground cumin",
+        "1 tsp chili powder",
+        "1/2 cup shredded cheddar cheese",
+        "Fresh cilantro leaves for garnish",
+        "Sour cream or Greek yogurt for serving (optional)"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat your oven to 375°F (190°C)."
+        },
+        {
+          "Step 2": "Slice the tops off the bell peppers and remove the seeds and membranes."
+        },
+        {
+          "Step 3": "In a medium saucepan, bring the vegetable broth to a boil. Add the quinoa, reduce heat to low, cover, and simmer for 15 minutes, or until quinoa is cooked and liquid is absorbed. Remove from heat and let it cool slightly."
+        },
+        {
+          "Step 4": "In a large mixing bowl, combine the cooked quinoa, black beans, corn, diced tomatoes, diced red onion, minced garlic, ground cumin, and chili powder. Mix well to combine."
+        },
+        {
+          "Step 5": "Stuff each bell pepper with the quinoa mixture, packing it tightly. Place the stuffed peppers in a baking dish."
+        },
+        {
+          "Step 6": "Cover the baking dish with foil and bake in the preheated oven for 25-30 minutes, or until the peppers are tender."
+        },
+        {
+          "Step 7": "Remove the foil from the baking dish and sprinkle shredded cheddar cheese over the stuffed peppers. Return to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly."
+        },
+        {
+          "Step 8": "Remove the stuffed peppers from the oven and let them cool slightly before serving."
+        },
+        {
+          "Step 9": "Garnish with fresh cilantro leaves and serve with sour cream or Greek yogurt on the side, if desired. Enjoy!"
+        }
+      ],
+      "image": "https://www.makingthymeforhealth.com/wp-content/uploads/2014/08/Mediterranean-Stuffed-Peppers-100.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Vegetable Pad Thai",
+      "difficulty": "Intermediate",
+      "portion": "Serves 4",
+      "time": "Hands-on time 30 min",
+      "description": "Indulge in the bold flavors of Thailand with this irresistible vegetable pad Thai. Loaded with colorful vegetables, tender rice noodles, and a tangy tamarind sauce, it's a delicious and satisfying meal that's sure to please.",
+      "ingredients": [
+        "8 oz (225g) rice noodles",
+        "2 tbsp vegetable oil",
+        "2 cloves garlic, minced",
+        "2 shallots, thinly sliced",
+        "2 cups mixed vegetables (such as bell peppers, carrots, snap peas, broccoli)",
+        "1 cup bean sprouts",
+        "2 eggs, beaten",
+        "1/4 cup roasted peanuts, chopped",
+        "2 green onions, sliced",
+        "Fresh cilantro leaves for garnish",
+        "Lime wedges for serving"
+      ],
+      "method": [
+        {
+          "Step 1": "Cook the rice noodles according to the package instructions until al dente. Drain and set aside."
+        },
+        {
+          "Step 2": "In a large skillet or wok, heat the vegetable oil over medium-high heat."
+        },
+        {
+          "Step 3": "Add the minced garlic and thinly sliced shallots to the skillet and cook for 1-2 minutes, or until fragrant."
+        },
+        {
+          "Step 4": "Add the mixed vegetables to the skillet and stir-fry for 5-7 minutes, or until tender-crisp."
+        },
+        {
+          "Step 5": "Push the vegetables to one side of the skillet and pour the beaten eggs into the empty space. Scramble the eggs until cooked through, then stir to combine with the vegetables."
+        },
+        {
+          "Step 6": "Add the cooked rice noodles to the skillet, along with the bean sprouts and chopped peanuts. Toss everything together until well combined."
+        },
+        {
+          "Step 7": "Pour the tamarind sauce over the noodles and vegetables, tossing to coat evenly. Cook for an additional 2-3 minutes, or until heated through."
+        },
+        {
+          "Step 8": "Remove the skillet from heat and garnish with sliced green onions and fresh cilantro leaves."
+        },
+        {
+          "Step 9": "Serve the vegetable pad Thai hot, accompanied by lime wedges for squeezing over the noodles. Enjoy!"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpdOhaA4XlPwfyeMJSawSMraZTmUA5g2Xdw&usqp=CAU"
+    },
+    {
+      "id": "16",
+      "title": "Mediterranean Chickpea Salad",
+      "difficulty": "Easy",
+      "portion": "Serves 4",
+      "time": "Hands-on time 15 min",
+      "description": "This vibrant and flavorful Mediterranean chickpea salad is a refreshing and satisfying dish that's perfect for summer picnics, potlucks, or as a light lunch or dinner. Packed with protein-rich chickpeas, crisp vegetables, and tangy feta cheese, it's sure to become a favorite.",
+      "ingredients": [
+        "2 cans (15 oz each) chickpeas, drained and rinsed",
+        "1 cup cherry tomatoes, halved",
+        "1 cucumber, diced",
+        "1/2 red onion, thinly sliced",
+        "1/2 cup Kalamata olives, pitted and halved",
+        "1/2 cup crumbled feta cheese",
+        "Handful fresh parsley, chopped",
+        "2 tbsp extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp dried oregano",
+        "Salt and pepper to taste",
+        "Lemon wedges for serving (optional)"
+      ],
+      "method": [
+        {
+          "Step 1": "In a large mixing bowl, combine the chickpeas, cherry tomatoes, diced cucumber, thinly sliced red onion, halved Kalamata olives, crumbled feta cheese, and chopped fresh parsley."
+        },
+        {
+          "Step 2": "In a small bowl, whisk together the extra virgin olive oil, red wine vinegar, dried oregano, salt, and pepper."
+        },
+        {
+          "Step 3": "Pour the dressing over the chickpea salad and toss to coat evenly."
+        },
+        {
+          "Step 4": "Taste and adjust seasoning, adding more salt and pepper if desired."
+        },
+        {
+          "Step 5": "Serve the Mediterranean chickpea salad cold or at room temperature, accompanied by lemon wedges for squeezing over the salad if desired. Enjoy!"
+        }
+      ],
+      "image": "https://pinchofyum.com/wp-content/uploads/Vegetarian-Pad-Thai-Recipe.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Sushi Rolls",
+      "difficulty": "Intermediate",
+      "portion": "Makes 4 rolls",
+      "time": "Hands-on time 45 min",
+      "description": "Learn how to make your own sushi rolls at home with this step-by-step guide. With just a few simple ingredients and a little practice, you can create delicious and beautiful sushi rolls that rival your favorite sushi restaurant.",
+      "ingredients": [
+        "4 sheets nori (seaweed)",
+        "2 cups sushi rice, cooked and seasoned",
+        "Assorted fillings (such as cucumber, avocado, crab stick, smoked salmon, tuna)",
+        "Soy sauce, pickled ginger, and wasabi for serving"
+      ],
+      "method": [
+        {
+          "Step 1": "Place a sheet of nori shiny side down on a bamboo sushi mat or a clean kitchen towel."
+        },
+        {
+          "Step 2": "Spread a thin layer of sushi rice evenly over the nori, leaving a 1-inch border along the top edge."
+        },
+        {
+          "Step 3": "Arrange your desired fillings in a line across the center of the rice."
+        },
+        {
+          "Step 4": "Starting from the bottom edge, tightly roll up the nori and rice, using the sushi mat or kitchen towel to help shape the roll."
+        },
+        {
+          "Step 5": "Moisten the top edge of the nori with a little water to seal the roll."
+        },
+        {
+          "Step 6": "Using a sharp knife, slice the roll into 6-8 pieces."
+        },
+        {
+          "Step 7": "Repeat the process with the remaining nori, rice, and fillings until you have 4 rolls."
+        },
+        {
+          "Step 8": "Serve the sushi rolls with soy sauce, pickled ginger, and wasabi on the side. Enjoy!"
+        }
+      ],
+      "image": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Ratatouille",
+      "difficulty": "Intermediate",
+      "portion": "Serves 6",
+      "time": "Hands-on time 30 min, Cooking time 1 hr",
+      "description": "This classic French ratatouille is a hearty and flavorful vegetable stew that's perfect for showcasing the bounty of summer produce. Layers of tender eggplant, zucchini, bell peppers, and tomatoes are simmered in a fragrant herb and garlic-infused tomato sauce until melt-in-your-mouth delicious.",
+      "ingredients": [
+        "1 large eggplant, diced",
+        "2 zucchini, diced",
+        "2 bell peppers (red, yellow, or orange), diced",
+        "1 onion, diced",
+        "4 cloves garlic, minced",
+        "4 tomatoes, diced",
+        "2 tbsp tomato paste",
+        "2 tbsp extra virgin olive oil",
+        "1 tsp dried thyme",
+        "1 tsp dried oregano",
+        "Salt and pepper to taste",
+        "Fresh basil leaves for garnish"
+      ],
+      "method": [
+        {
+          "Step 1": "Heat the olive oil in a large Dutch oven or heavy-bottomed pot over medium heat."
+        },
+        {
+          "Step 2": "Add the diced onion to the pot and cook for 3-4 minutes, or until softened."
+        },
+        {
+          "Step 3": "Add the minced garlic to the pot and cook for an additional minute, or until fragrant."
+        },
+        {
+          "Step 4": "Stir in the diced eggplant, zucchini, and bell peppers, along with the dried thyme and oregano. Cook for 8-10 minutes, stirring occasionally, until the vegetables start to soften."
+        },
+        {
+          "Step 5": "Add the diced tomatoes and tomato paste to the pot, stirring to combine. Season with salt and pepper to taste."
+        },
+        {
+          "Step 6": "Reduce heat to low, cover, and simmer the ratatouille for 30-40 minutes, stirring occasionally, until the vegetables are tender and the flavors have melded together."
+        },
+        {
+          "Step 7": "Taste and adjust seasoning if necessary. Garnish with fresh basil leaves before serving."
+        },
+        {
+          "Step 8": "Serve the ratatouille hot or at room temperature, accompanied by crusty bread or cooked grains. Enjoy!"
+        }
+      ],
+      "image": "https://www.howtocook.recipes/wp-content/uploads/2021/05/Ratatouille-recipe.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Mushroom Risotto",
+      "difficulty": "Intermediate",
+      "portion": "Serves 4",
+      "time": "Hands-on time 30 min, Cooking time 30 min",
+      "description": "Indulge in the creamy comfort of mushroom risotto with this delicious recipe. Arborio rice is simmered in a flavorful broth until perfectly al dente, then combined with sautéed mushrooms, garlic, and Parmesan cheese for a rich and satisfying dish that's perfect for any occasion.",
+      "ingredients": [
+        "1 cup Arborio rice",
+        "4 cups vegetable or chicken broth",
+        "2 tbsp unsalted butter",
+        "2 tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "8 oz (225g) mushrooms (such as cremini or button), sliced",
+        "1/2 cup dry white wine (optional)",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "method": [
+        {
+          "Step 1": "In a medium saucepan, heat the vegetable or chicken broth over low heat until warm. Keep warm while you prepare the risotto."
+        },
+        {
+          "Step 2": "In a large skillet or Dutch oven, heat the olive oil and butter over medium heat."
+        },
+        {
+          "Step 3": "Add the finely chopped onion to the skillet and cook for 3-4 minutes, or until softened."
+        },
+        {
+          "Step 4": "Add the minced garlic to the skillet and cook for an additional minute, or until fragrant."
+        },
+        {
+          "Step 5": "Add the sliced mushrooms to the skillet and cook for 5-7 minutes, or until they release their moisture and start to brown."
+        },
+        {
+          "Step 6": "Stir in the Arborio rice and cook for 1-2 minutes, stirring constantly, until the rice is lightly toasted."
+        },
+        {
+          "Step 7": "If using, pour in the dry white wine and cook until the liquid is absorbed, stirring occasionally."
+        },
+        {
+          "Step 8": "Begin adding the warm broth to the skillet, one ladleful at a time, stirring constantly and allowing each addition to be absorbed before adding more."
+        },
+        {
+          "Step 9": "Continue cooking the risotto in this manner until the rice is creamy and al dente, about 20-25 minutes."
+        },
+        {
+          "Step 10": "Stir in the grated Parmesan cheese and season with salt and pepper to taste."
+        },
+        {
+          "Step 11": "Remove the skillet from heat and let the risotto rest for a few minutes before serving."
+        },
+        {
+          "Step 12": "Garnish the mushroom risotto with fresh parsley before serving. Enjoy!"
+        }
+      ],
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/mushroom-risotto.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Chicken Tikka Masala",
+      "difficulty": "Intermediate",
+      "portion": "Serves 4",
+      "time": "Hands-on time 30 min, Cooking time 30 min",
+      "description": "Transport your taste buds to India with this rich and flavorful chicken tikka masala. Tender pieces of marinated chicken are simmered in a creamy tomato-based sauce infused with fragrant spices for a delicious and comforting meal that's perfect served over rice or with naan bread.",
+      "ingredients": [
+        "1 lb (450g) boneless, skinless chicken breasts, cut into bite-sized pieces",
+        "1 cup plain yogurt",
+        "2 cloves garlic, minced",
+        "1 inch piece ginger, grated",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1/2 tsp ground turmeric",
+        "1/2 tsp cayenne pepper",
+        "1/2 tsp smoked paprika",
+        "Salt and pepper to taste",
+        "2 tbsp vegetable oil",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 inch piece ginger, grated",
+        "1 can (14 oz) crushed tomatoes",
+        "1 cup heavy cream",
+        "2 tsp garam masala",
+        "Fresh cilantro leaves for garnish",
+        "Cooked rice or naan bread for serving"
+      ],
+      "method": [
+        {
+          "Step 1": "In a large mixing bowl, combine the plain yogurt, minced garlic, grated ginger, ground cumin, ground coriander, ground turmeric, cayenne pepper, smoked paprika, salt, and pepper."
+        },
+        {
+          "Step 2": "Add the bite-sized chicken pieces to the yogurt marinade, stirring to coat evenly. Cover and refrigerate for at least 1 hour, or overnight for best results."
+        },
+        {
+          "Step 3": "Heat the vegetable oil in a large skillet or Dutch oven over medium heat."
+        },
+        {
+          "Step 4": "Add the finely chopped onion to the skillet and cook for 3-4 minutes, or until softened."
+        },
+        {
+          "Step 5": "Add the minced garlic and grated ginger to the skillet and cook for an additional minute, or until fragrant."
+        },
+        {
+          "Step 6": "Add the marinated chicken pieces to the skillet, discarding any excess marinade. Cook for 5-7 minutes, or until the chicken is browned on all sides."
+        },
+        {
+          "Step 7": "Stir in the crushed tomatoes and heavy cream, stirring to combine."
+        },
+        {
+          "Step 8": "Reduce heat to low and simmer the chicken tikka masala for 15-20 minutes, stirring occasionally, until the chicken is cooked through and the sauce has thickened slightly."
+        },
+        {
+          "Step 9": "Stir in the garam masala and season with additional salt and pepper to taste."
+        },
+        {
+          "Step 10": "Remove the skillet from heat and garnish with fresh cilantro leaves before serving."
+        },
+        {
+          "Step 11": "Serve the chicken tikka masala hot, accompanied by cooked rice or naan bread. Enjoy!"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk25VmJEIhWjo2V2pE4xBlAAptthKyyDygek0L-sFmZA&s"
+    },
+    {
+      "id": "21",
+      "title": "Classic Beef Lasagna",
+      "difficulty": "Intermediate",
+      "portion": "Serves 8",
+      "time": "Hands-on time 45 min, Cooking time 1 hr",
+      "description": "Treat your family to a comforting and hearty meal with this classic beef lasagna recipe. Layers of tender lasagna noodles, savory beef and tomato sauce, creamy ricotta cheese, and melted mozzarella come together in this delicious and satisfying dish that's perfect for any occasion.",
+      "ingredients": [
+        "1 lb (450g) lean ground beef",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 can (14 oz) crushed tomatoes",
+        "1 can (6 oz) tomato paste",
+        "1 cup beef broth",
+        "1 tsp dried basil",
+        "1 tsp dried oregano",
+        "Salt and pepper to taste",
+        "12 lasagna noodles, cooked according to package instructions",
+        "2 cups ricotta cheese",
+        "2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "Fresh parsley for garnish"
+      ],
+      "method": [
+        {
+          "Step 1": "Preheat your oven to 375°F (190°C)."
+        },
+        {
+          "Step 2": "In a large skillet, cook the ground beef over medium heat until browned."
+        },
+        {
+          "Step 3": "Add the finely chopped onion and minced garlic to the skillet and cook for 3-4 minutes, or until softened."
+        },
+        {
+          "Step 4": "Stir in the crushed tomatoes, tomato paste, beef broth, dried basil, and dried oregano. Season with salt and pepper to taste."
+        },
+        {
+          "Step 5": "Simmer the beef and tomato sauce for 15-20 minutes, stirring occasionally, until thickened."
+        },
+        {
+          "Step 6": "Spread a thin layer of the beef and tomato sauce in the bottom of a 9x13-inch baking dish."
+        },
+        {
+          "Step 7": "Arrange a layer of cooked lasagna noodles over the sauce, followed by a layer of ricotta cheese and shredded mozzarella cheese."
+        },
+        {
+          "Step 8": "Repeat the layers until all ingredients are used, ending with a layer of sauce on top."
+        },
+        {
+          "Step 9": "Sprinkle grated Parmesan cheese over the top of the lasagna."
+        },
+        {
+          "Step 10": "Cover the baking dish with foil and bake in the preheated oven for 30 minutes."
+        },
+        {
+          "Step 11": "Remove the foil and bake for an additional 15 minutes, or until the cheese is melted and bubbly."
+        },
+        {
+          "Step 12": "Remove the lasagna from the oven and let it rest for a few minutes before serving."
+        },
+        {
+          "Step 13": "Garnish with fresh parsley before serving. Enjoy!"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrh7kjM6woKM1AjT7ug6ekMZ2U7dDCcyYgKtQXWgnC5A&s"
+    },
+    {
+      "id": "22",
+      "title": "Ugali with Sukuma Wiki and Nyama Choma",
+      "difficulty": "Intermediate",
+      "portion": "Serves 4",
+      "time": "Hands-on time 30 min, Cooking time 1 hr",
+      "description": "Ugali with sukuma wiki and nyama choma is a classic Kenyan dish that combines hearty cornmeal porridge with sautéed collard greens and grilled meat. It's a staple meal in Kenyan cuisine, loved for its simplicity and comforting flavors.",
+      "ingredients": [
+        "2 cups maize flour (cornmeal)",
+        "4 cups water",
+        "1 bunch sukuma wiki (collard greens), finely chopped",
+        "1 onion, finely chopped",
+        "2 tomatoes, chopped",
+        "2 cloves garlic, minced",
+        "1 tbsp vegetable oil",
+        "Salt to taste",
+        "1 kg nyama choma (grilled meat), such as beef or goat, sliced"
+      ],
+      "method": [
+        {
+          "Step 1": "In a large pot, bring the water to a boil."
+        },
+        {
+          "Step 2": "Gradually add the maize flour to the boiling water, stirring continuously to prevent lumps from forming."
+        },
+        {
+          "Step 3": "Reduce the heat to low and continue to cook the ugali, stirring constantly, until it thickens and pulls away from the sides of the pot."
+        },
+        {
+          "Step 4": "Remove the pot from heat and let the ugali cool slightly before serving."
+        },
+        {
+          "Step 5": "In a separate pan, heat the vegetable oil over medium heat."
+        },
+        {
+          "Step 6": "Add the chopped onion and minced garlic to the pan and sauté until softened."
+        },
+        {
+          "Step 7": "Add the chopped tomatoes to the pan and cook until they start to break down."
+        },
+        {
+          "Step 8": "Add the finely chopped sukuma wiki to the pan and cook until wilted."
+        },
+        {
+          "Step 9": "Season the sukuma wiki with salt to taste and remove from heat."
+        },
+        {
+          "Step 10": "Serve the warm ugali with sukuma wiki and slices of nyama choma. Enjoy!"
+        }
+      ],
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*2t-UZ6cZhrNfOs1pOj6cPA.jpeg"
+    },
+    {
+      "id": "23",
+      "title": "Pilau Rice",
+      "difficulty": "Intermediate",
+      "portion": "Serves 6",
+      "time": "Hands-on time 30 min, Cooking time 45 min",
+      "description": "Pilau rice is a fragrant and flavorful dish that's popular in Kenyan cuisine. Made with rice cooked in a spiced broth with meat, vegetables, and aromatics, it's a comforting and satisfying meal that's perfect for gatherings and special occasions.",
+      "ingredients": [
+        "2 cups basmati rice, rinsed and drained",
+        "500g boneless chicken or beef, cut into bite-sized pieces",
+        "2 onions, finely chopped",
+        "3 tomatoes, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 cups beef or chicken broth",
+        "1/4 cup vegetable oil",
+        "2 tbsp pilau masala (or a mixture of ground cumin, coriander, cardamom, cloves, and cinnamon)",
+        "Salt to taste",
+        "Fresh cilantro leaves for garnish"
+      ],
+      "method": [
+        {
+          "Step 1": "In a large pot or Dutch oven, heat the vegetable oil over medium heat."
+        },
+        {
+          "Step 2": "Add the chopped onions to the pot and sauté until softened."
+        },
+        {
+          "Step 3": "Add the minced garlic and grated ginger to the pot and cook until fragrant."
+        },
+        {
+          "Step 4": "Add the chopped tomatoes to the pot and cook until they start to break down."
+        },
+        {
+          "Step 5": "Stir in the pilau masala and cook for another minute to toast the spices."
+        },
+        {
+          "Step 6": "Add the bite-sized pieces of chicken or beef to the pot and brown on all sides."
+        },
+        {
+          "Step 7": "Pour in the beef or chicken broth and bring to a simmer."
+        },
+        {
+          "Step 8": "Add the rinsed basmati rice to the pot and stir to combine."
+        },
+        {
+          "Step 9": "Cover the pot and reduce heat to low. Cook for 20-25 minutes, or until the rice is tender and the liquid is absorbed."
+        },
+        {
+          "Step 10": "Fluff the pilau rice with a fork and garnish with fresh cilantro leaves before serving. Enjoy!"
+        }
+      ],
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "25",
+      "title": "Mandazi (Kenyan Donuts)",
+      "difficulty": "Intermediate",
+      "portion": "Makes 12 donuts",
+      "time": "Hands-on time 20 min, Cooking time 15 min",
+      "description": "Mandazi, also known as Swahili donuts, are a popular East African snack that's enjoyed with tea or coffee. These soft and pillowy fried donuts are flavored with coconut milk and spices, making them irresistible treats for any time of day.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/4 cup sugar",
+        "1 tsp baking powder",
+        "1/4 tsp salt",
+        "1/2 tsp ground cardamom",
+        "1/4 tsp ground cinnamon",
+        "1/4 cup coconut milk",
+        "1/4 cup water",
+        "2 tbsp melted butter or vegetable oil",
+        "Oil for frying",
+        "Powdered sugar for dusting"
+      ],
+      "method": [
+        {
+          "Step 1": "In a large mixing bowl, combine the all-purpose flour, sugar, baking powder, salt, ground cardamom, and ground cinnamon."
+        },
+        {
+          "Step 2": "Add the coconut milk, water, and melted butter or vegetable oil to the dry ingredients. Mix until a soft dough forms."
+        },
+        {
+          "Step 3": "Turn the dough out onto a floured surface and knead until smooth and elastic, about 5 minutes."
+        },
+        {
+          "Step 4": "Divide the dough into 12 equal portions and shape each portion into a ball."
+        },
+        {
+          "Step 5": "Heat oil in a deep frying pan or pot over medium heat until it reaches 350°F (180°C)."
+        },
+        {
+          "Step 6": "Flatten each dough ball into a disc about 1/4 inch thick."
+        },
+        {
+          "Step 7": "Carefully place the flattened dough discs into the hot oil, frying in batches to avoid overcrowding."
+        },
+        {
+          "Step 8": "Fry the mandazi for 2-3 minutes on each side, or until golden brown and cooked through."
+        },
+        {
+          "Step 9": "Remove the fried mandazi from the oil and drain on paper towels to remove excess oil."
+        },
+        {
+          "Step 10": "Dust the warm mandazi with powdered sugar before serving. Enjoy!"
+        }
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGoGVTsW5Xo4wi4FkciSpSrc-tAziBFHOlckehgP6aTA&s"
+    }
+  ]
 }
