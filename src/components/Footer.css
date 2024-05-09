@@ -52,3 +52,28 @@
     text-decoration: underline;
   }
   
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .signature {
+    font-size: 14px;
+  }
+  
+  .extra-info {
+    display: flex;
+  }
+  
+  .footer-icon {
+    color: #fff;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  
+  .footer-icon:hover {
+    color: #ff4500;
+  }
+  
