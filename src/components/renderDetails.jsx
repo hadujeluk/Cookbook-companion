@@ -12,7 +12,7 @@ const RenderDetails = ({
     <div>
       <img className="image" src={image} />
       <p>{description}</p>
-      <p>Portion: {portion}</p>
+      <p class="container">Portion: {portion}</p>
       <p>Time: {time}</p>
       {ingredients && ingredients.length > 0 ? (
         <div>
