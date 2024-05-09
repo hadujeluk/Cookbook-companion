@@ -9,7 +9,7 @@ const RecipeCard = ({ title, image, difficulty, id }) => {
       <h2 className="text">{title}</h2>
       <p className="text">Difficulty: {difficulty}</p>
       <Link to={`details/${id}`}>
-      <button type="button" class="btn btn-primary">View Recipe→</button>
+      <button type="button" className="btn btn-primary">View Recipe→</button>
       </Link>
 
     </div>
