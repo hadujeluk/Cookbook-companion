@@ -13,7 +13,7 @@ const route = createBrowserRouter([
     element: <RecipeCollection />,
   },
   {
-    path: "details/:id",
+    path: "dishes/details/:id",
     element: <RecipeDetails />,
   },
 ]);
