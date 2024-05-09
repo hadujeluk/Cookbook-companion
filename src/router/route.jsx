@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Home from "./Home";
 import About from "../components/About";
+import Footer from "../components/Footer";
 
 
 const route = createBrowserRouter([
@@ -12,7 +13,11 @@ const route = createBrowserRouter([
      path: '/about',
      element: <About/>
 
-    
+    },
+    {
+  path:'/',
+  element:<Footer/>
+
     }
   
    

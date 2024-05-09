@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom"; 
+import React, { useState, useEffect } from "react"; 
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -34,7 +33,6 @@ function HomePage() {
         <div className="buttons-container">
           <button className="button-primary">Explore Recipes</button>
           <button className="button-secondary">Learn More</button>
-          <Link to="/about" className="button-secondary">About</Link>
         </div>
       </div>
       <div className="carousel-container">

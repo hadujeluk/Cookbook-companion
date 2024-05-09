@@ -12,6 +12,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import "@fortawesome/fontawesome-free/css/all.css";
 import "../components/About.css"; 
+import Footer from "../components/Footer";
 
 function About() {
   return (
@@ -82,10 +83,13 @@ function About() {
             <p className="about-paragraph">
               Join us on a journey of culinary discovery and unleash your inner chef with Delicious Delights. Let's cook up something amazing together!
             </p>
+            
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
+    
   );
 }
 
