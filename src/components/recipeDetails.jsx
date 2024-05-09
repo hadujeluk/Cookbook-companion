@@ -1,28 +1,30 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import RenderDetails from "./renderDetails";
 
 function RecipeDetails() {
-  const [dishes, setDishes] = useState();
+  const [dishes, setDishes] = useState([]);
   const params = useParams();
+
   useEffect(() => {
     fetch(`http://localhost:3000/recipes/${params.id}`)
       .then((response) => response.json())
       .then((data) => setDishes(data));
-  }, params.id);
-  return(
+  }, [params.id]);
+
+  return (
     <div>
-      {dishes.map((dish) => (
-        <RecipeDetails
-          key={dish.id}
-          portion={dish.portion}
-          time={dish.time}
-          description={dish.description}
-          ingredients={dish.ingredients}
-          method={dish.method}
-          image={dish.image}
-        />
-      ))}
+      <RenderDetails
+        key={dishes.id}
+        portion={dishes.portion}
+        time={dishes.time}
+        description={dishes.description}
+        ingredients={dishes.ingredients}
+        method={dishes.method}
+        image={dishes.image}
+      />
     </div>
-  )
+  );
 }
+
 export default RecipeDetails;
