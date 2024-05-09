@@ -388,57 +388,7 @@
     ],
     "image": "https://www.makingthymeforhealth.com/wp-content/uploads/2014/08/Mediterranean-Stuffed-Peppers-100.jpg"
   },
-  {
-    "id": "15",
-    "title": "Vegetable Pad Thai",
-    "difficulty": "Intermediate",
-    "portion": "Serves 4",
-    "time": "Hands-on time 30 min",
-    "description": "Indulge in the bold flavors of Thailand with this irresistible vegetable pad Thai. Loaded with colorful vegetables, tender rice noodles, and a tangy tamarind sauce, it's a delicious and satisfying meal that's sure to please.",
-    "ingredients": [
-      "8 oz (225g) rice noodles",
-      "2 tbsp vegetable oil",
-      "2 cloves garlic, minced",
-      "2 shallots, thinly sliced",
-      "2 cups mixed vegetables (such as bell peppers, carrots, snap peas, broccoli)",
-      "1 cup bean sprouts",
-      "2 eggs, beaten",
-      "1/4 cup roasted peanuts, chopped",
-      "2 green onions, sliced",
-      "Fresh cilantro leaves for garnish",
-      "Lime wedges for serving"
-    ],
-    "method": [
-      {
-        "Step 1": "Cook the rice noodles according to the package instructions until al dente. Drain and set aside."
-      },
-      {
-        "Step 2": "In a large skillet or wok, heat the vegetable oil over medium-high heat."
-      },
-      {
-        "Step 3": "Add the minced garlic and thinly sliced shallots to the skillet and cook for 1-2 minutes, or until fragrant."
-      },
-      {
-        "Step 4": "Add the mixed vegetables to the skillet and stir-fry for 5-7 minutes, or until tender-crisp."
-      },
-      {
-        "Step 5": "Push the vegetables to one side of the skillet and pour the beaten eggs into the empty space. Scramble the eggs until cooked through, then stir to combine with the vegetables."
-      },
-      {
-        "Step 6": "Add the cooked rice noodles to the skillet, along with the bean sprouts and chopped peanuts. Toss everything together until well combined."
-      },
-      {
-        "Step 7": "Pour the tamarind sauce over the noodles and vegetables, tossing to coat evenly. Cook for an additional 2-3 minutes, or until heated through."
-      },
-      {
-        "Step 8": "Remove the skillet from heat and garnish with sliced green onions and fresh cilantro leaves."
-      },
-      {
-        "Step 9": "Serve the vegetable pad Thai hot, accompanied by lime wedges for squeezing over the noodles. Enjoy!"
-      }
-    ],
-    "image": "https://example.com/vegetable_pad_thai.jpg"
-  },
+  
   {
     "id": "16",
     "title": "Mediterranean Chickpea Salad",
