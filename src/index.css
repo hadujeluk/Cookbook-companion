@@ -1,6 +1,53 @@
-
-   
 .Navcontainer {
+
+  display: flex;
+  align-items: center;
+  border: 1px solid hsl(0, 5%, 70%);
+  width: auto;
+  padding: 20px;
+  background-color: #efbd9d;
+  color: rgb(58, 22, 15);
+  justify-content: space-between;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+h1 {
+  margin-right: auto;
+}
+
+.navbar {
+  font-size: x-large;
+  font-style: italic;
+  color: rgb(140, 38, 17);
+}
+
+.Iconcontainer {
+  display: flex;
+  align-items: center;
+}
+
+.ButtonsDiv {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+}
+
+.Navbutton {
+  margin-left: 10px;
+}
+
+.sort-bar {
+  margin-bottom: 20px;
+
     display: flex;
     align-items: center;
     border: 1px solid hsl(0, 5%, 70%); 
@@ -22,28 +69,34 @@
   h1 {
     margin-right: auto; 
   }
+
   
-  .navbar {
-    font-size: x-large;
-    font-style: italic;
-    color: rgb(140, 38, 17); 
-  }
+}
 
-  .Iconcontainer{
-    display: flex;
-    align-items: center;
-  }
+.sort-bar label {
+  margin-right: 15px;
+}
 
-  .ButtonsDiv{
-    display: flex;
-    justify-content: space-between; 
-  }
-
-  .nav{
-    display: flex;
-    justify-content: center; 
-  }
+.sort-bar select {
+  padding: 5px;
+  border: 7px solid #8a4d4d;
+  border-radius: 15px;
+}
+.spacing {
+  display: flex;
+  justify-content: space-between;
+  align-items: last baseline;
+}
+.navbar.bg-body-tertiary {
+  background-color: #a6c2a5;
+  color: #447537;
+  padding: 2px; 
+  display: flex;
+  justify-content: center;
   
+
+}
+
   .Navbutton{
     margin-left: 10px;
   }
