@@ -10,6 +10,7 @@ import {
   faStar, 
   faHandsHelping 
 } from '@fortawesome/free-solid-svg-icons';
+import "@fortawesome/fontawesome-free/css/all.css";
 import "../components/About.css"; 
 
 function About() {
