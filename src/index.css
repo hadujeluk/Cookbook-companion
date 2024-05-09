@@ -5,7 +5,7 @@
   width: auto;
   padding: 20px;
   background-color: #efbd9d;
-  color: rgb(140, 38, 17);
+  color: rgb(58, 22, 15);
   justify-content: space-between;
 }
 
@@ -65,9 +65,9 @@ h1 {
 }
 .navbar.bg-body-tertiary {
   background-color: #a6c2a5;
-  color: #3fa526;
+  color: #447537;
   padding: 2px; 
   display: flex;
   justify-content: center;
-  align-items: center;
+  
 }
