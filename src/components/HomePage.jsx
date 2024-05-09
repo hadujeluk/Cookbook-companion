@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../components/HomePage.css"; 
-import { Link } from 'react-router-dom'
+
 
 
 function HomePage() {
@@ -35,9 +35,6 @@ function HomePage() {
         <div className="buttons-container">
           <button className="button-primary">Explore Recipes</button>
           <button className="button-secondary">Learn More</button>
-          <Link to="/about">
-        <button>About</button>
-      </Link>
         </div>
       </div>
       <div className="carousel-container">
