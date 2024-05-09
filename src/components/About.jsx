@@ -13,9 +13,12 @@ import {
 import "@fortawesome/fontawesome-free/css/all.css";
 import "../components/About.css"; 
 import Footer from "../components/Footer";
+import Navbar from "./Navbar";
 
 function About() {
   return (
+    <div>
+      <Navbar />
     <div className="about-container">
       <div className="about-content">
         <h2 className="about-header">Why Cook-Book Companion</h2>
@@ -87,7 +90,8 @@ function About() {
           </div>
         </div>
       </div>
-      <Footer/>
+      
+    </div>
     </div>
     
   );

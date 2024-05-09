@@ -3,10 +3,14 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter, faFacebookF, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import { faQuestionCircle, faInfoCircle, faComments } from "@fortawesome/free-solid-svg-icons";
 import "../components/Footer.css";
+import { NavLink } from "react-router-dom";
 
 function Footer() {
   return (
     <footer className="footer">
+       <NavLink to={"/"} className="navbar">
+                <button className="btn btn-secondary button1">HOME</button>
+              </NavLink>
       <div className="social-icons">
         <h3>Social Media</h3>
         <div className="icon-group">

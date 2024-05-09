@@ -3,6 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../components/HomePage.css"; 
+import { Link } from "react-router-dom";
 
 function HomePage() {
   const [recipes, setRecipes] = useState([]);
@@ -29,10 +30,14 @@ function HomePage() {
     <div className="homepage">
       <div className="homepage-header">
         <h1 className="header">A Chef In Every Tasty Meal Box</h1>
-        <p className="paragraph">Explore a world of flavors and unleash your culinary creativity with our delightful collection of recipes. From quick and easy meals to gourmet delights, we've got something for every taste bud.</p>
+        <p className="paragraph">At the heart of our website lies a powerful search engine that empowers users to effortlessly navigate through thousands of mouthwatering dishes. Whether you're in the mood for a quick and healthy weeknight meal, a decadent dessert to impress your guests, or a delectable international cuisine, our search functionality allows you to filter by ingredients, dietary restrictions, cooking time, and difficulty level, ensuring you find the perfect recipe to suit your needs</p>
         <div className="buttons-container">
+          <Link to={'/recipes'}>
           <button className="button-primary">Explore Recipes</button>
-          <button className="button-secondary">Learn More</button>
+          </Link>
+          <Link to={'/footer'}>
+          <button className="button-secondary">Contact Us</button>
+          </Link>
         </div>
       </div>
       <div className="carousel-container">

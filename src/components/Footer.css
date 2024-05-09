@@ -1,7 +1,9 @@
 .footer {
   background-color: black;
   color: #fff;
-  padding: 40px;
+  padding: 400px;
+  max-height: 100%;
+max-width: 100%;
   
 }
 

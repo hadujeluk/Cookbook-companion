@@ -1,5 +1,5 @@
- feature/homepage-aboutpage
-import { NavLink } from 'react-router-dom'
+ 
+
 
 import { NavLink } from "react-router-dom";
 
@@ -15,22 +15,10 @@ function Navbar() {
           />
         </div>
         <h3>COOKBOOK COMPANION</h3>
-feature/homepage-aboutpage
+
         </div>
        <div>
-    <nav className='nav'>
-   <div className='ButtonsDiv'>
-      <div className='Navbutton'>
-        <NavLink to={'/'}  className='navbar' >
-          <button className="btn btn-secondary">HOME</button>
-           </NavLink>
-       </div>
-       <div className='Navbutton'>
-        <NavLink to={'/about'}  className='navbar' >
-          <button className="btn btn-secondary">ABOUT</button>
-           </NavLink> 
-       </div>
-
+    
 
       </div>
       <div>
@@ -42,8 +30,8 @@ feature/homepage-aboutpage
               </NavLink>
             </div>
             <div className="Navbutton">
-              <NavLink to={"/dishes"} className="navbar">
-                <button className="btn btn-secondary button1">DISHES</button>
+              <NavLink to={"/about"} className="navbar">
+                <button className="btn btn-secondary button1">ABOUT</button>
               </NavLink>
             </div>
           </div>
