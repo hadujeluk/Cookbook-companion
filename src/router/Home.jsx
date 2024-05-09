@@ -1,29 +1,21 @@
 
-import React from "react";
-import Navbar from "../components/Navbar";
-import Search from "../components/Search.jsx";
+
 
 import React from 'react'
 import Navbar from '../components/Navbar';
 import HomePage from '../components/HomePage';
+import Search from "../components/Search.jsx";
 
 
 
 
-function Home() {
-  
-  return (
+function Home(){
+  return(
+
     <div>
-
-      <Navbar />
-      <Search />
-    </div>
-  );
-}
-
-export default Home;
-
+      
         <Navbar />
+        
         <HomePage/>
         
         

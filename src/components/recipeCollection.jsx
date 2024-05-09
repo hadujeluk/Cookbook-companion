@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import RecipeCard from "./recipeCard";
 import Navbar from "./Navbar";
+import Search from "./Search";
 
 function RecipeCollection() {
   const [recipes, setRecipes] = useState([]);
@@ -13,6 +14,7 @@ function RecipeCollection() {
   return (
     <div>
       <Navbar />
+      <Search />
       <div className="app">
         {recipes.map((recipe) => (
           <RecipeCard
