@@ -3,6 +3,7 @@
     max-width: 1000px;
     margin: 0 auto;
     padding: 50px 0;
+   background-color: beige;
   }
   
   .about-content {
@@ -18,27 +19,12 @@
     position: relative;
   }
   
-  .about-header::after {
-    content: "";
-    position: absolute;
-    bottom: -5px; /* Adjust as needed */
-    left: 0;
-  }
-  
-  .about-header::after {
-    content: '\f1fc'; /* Unicode for FontAwesome's paint brush icon */
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 900;
-    font-size: 1.5em; /* Adjust size as needed */
-    color:orangered;
-  }
-  
-  
   .about-paragraph {
     font-size: 18px;
-    line-height: 2.0;
+    line-height: 1.8;
     color: black;
     margin-bottom: 20px;
+    font-weight: 400;
   }
   
   .icon-group {
@@ -69,6 +55,7 @@
     display: flex;
     align-items: flex-start;
     margin-bottom: 40px;
+
   }
   
   .paragraph-group .icon {
