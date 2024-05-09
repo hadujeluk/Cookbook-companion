@@ -46,6 +46,7 @@ h1 {
 
 .sort-bar {
   margin-bottom: 20px;
+  
 }
 
 .sort-bar label {
@@ -60,4 +61,13 @@ h1 {
 .spacing {
   display: flex;
   justify-content: space-between;
+  align-items: last baseline;
+}
+.navbar.bg-body-tertiary {
+  background-color: #a6c2a5;
+  color: #3fa526;
+  padding: 2px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
