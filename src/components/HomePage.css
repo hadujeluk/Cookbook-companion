@@ -1,22 +1,23 @@
-  .homepage {
-    display: flex;
-    justify-content: space-between; 
-    align-items: center; 
-    background-color: black; 
-    padding: 50px; 
-  }
-  
-  .homepage-header {
-    text-align: left; 
-    
-  }
-  .header {
-    font-size: 82px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    color: whitesmoke;
-    animation: fadeIn 0.5s linear both;
-  }
+.homepage {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  background-color:black; 
+  padding: 50px; 
+}
+
+.homepage-header {
+  text-align: left;
+}
+
+.header {
+  font-size: 80px; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: whitesmoke;
+   
+}
+
   .paragraph{
     text-align: left;
     color: whitesmoke; 

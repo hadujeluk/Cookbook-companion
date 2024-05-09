@@ -2,13 +2,13 @@ import React, { useState, useEffect } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "./HomePage.css"; // Import the CSS file
+import "../components/HomePage.css"; 
+
 
 function HomePage() {
   const [recipes, setRecipes] = useState([]);
 
   useEffect(() => {
-    // Fetch recipe data from db.json or an API endpoint
     fetch("db.json")
       .then((response) => response.json())
       .then((data) => setRecipes(data.recipes))

@@ -1,66 +1,56 @@
 import React from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { 
-  faFacebookF, 
-  faTwitter, 
-  faInstagram, 
-  faLinkedinIn,
-  faQuestionCircle,
-  faInfoCircle,
-  faCommentAlt
-} from '@fortawesome/free-solid-svg-icons';
-import "../components/Footer.css"; 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTwitter, faFacebookF, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
+import { faQuestionCircle, faInfoCircle, faComments } from "@fortawesome/free-solid-svg-icons";
+import "../components/Footer.css";
 
 function Footer() {
   return (
     <footer className="footer">
-      <div className="footer-container">
-        <div className="social-icons">
-          <a href="#facebook">
-            <FontAwesomeIcon icon={faFacebookF} className="icon" />
-          </a>
-          <a href="#twitter">
+      <div className="social-icons">
+        <h3>Social Media</h3>
+        <div className="icon-group">
+          <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTwitter} className="icon" />
+            <span>Twitter</span>
           </a>
-          <a href="#instagram">
+          <a href="https://facebook.com/your-facebook-page" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faFacebookF} className="icon" />
+            <span>Facebook</span>
+          </a>
+          <a href="https://instagram.com/your-instagram-page" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faInstagram} className="icon" />
+            <span>Instagram</span>
           </a>
-          <a href="#linkedin">
+          <a href="https://linkedin.com/company/your-linkedin-page" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedinIn} className="icon" />
+            <span>LinkedIn</span>
           </a>
-        </div>
-        <div className="links">
-          <div className="link-group">
-            <h3>Support</h3>
-            <ul>
-              <li><a href="#faqs">FAQs</a></li>
-              <li><a href="#help-center">Help Center</a></li>
-            </ul>
-          </div>
-          <div className="link-group">
-            <h3>Information</h3>
-            <ul>
-              <li><a href="#about-us">About Us</a></li>
-              <li><a href="#policy">Policy</a></li>
-            </ul>
-          </div>
-          <div className="link-group">
-            <h3>Feedback & Request</h3>
-            <ul>
-              <li><a href="#feedback">Feedback Form</a></li>
-            </ul>
-          </div>
         </div>
       </div>
-      <div className="footer-bottom">
-        <div className="signature">
-          <span>© 2024 Cookbook Companion</span>
+      <div className="footer-links">
+        <h3>Information</h3>
+        <div className="link-group">
+          <FontAwesomeIcon icon={faQuestionCircle} className="link-icon" />
+          <a href="/faqs" className="link">FAQs</a>
         </div>
-        <div className="extra-info">
-          <a href="#faqs"><FontAwesomeIcon icon={faQuestionCircle} className="footer-icon" /></a>
-          <a href="#about-us"><FontAwesomeIcon icon={faInfoCircle} className="footer-icon" /></a>
-          <a href="#feedback"><FontAwesomeIcon icon={faCommentAlt} className="footer-icon" /></a>
+        <div className="link-group">
+          <FontAwesomeIcon icon={faInfoCircle} className="link-icon" />
+          <a href="/about" className="link">About Us</a>
+          <a href="/policy" className="link">Policy</a>
         </div>
+        <div className="link-group">
+          <FontAwesomeIcon icon={faComments} className="link-icon" />
+          <a href="/feedback" className="link">Feedback & Requests</a>
+        </div>
+      </div>
+      <div className="contact-info">
+        <h3>Contact Us</h3>
+        <p>Email: contact@example.com</p>
+        <p>Phone: +1234567890</p>
+      </div>
+      <div className="signature">
+        <span>© 2024 Cookbook Companion</span>
       </div>
     </footer>
   );
