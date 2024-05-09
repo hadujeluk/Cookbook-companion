@@ -9,11 +9,14 @@ const RenderDetails = ({
   description,
 }) => {
   return (
-    <div>
+    <div class="container">
       <img className="image" src={image} />
-      <p>{description}</p>
-      <p class="container">Portion: {portion}</p>
-      <p>Time: {time}</p>
+      <div>{description}</div>
+      <br />
+      <div class="container">Portion: {portion}</div>
+      <br />
+      <div>Time: {time}</div>
+      <br /><br />
       {ingredients && ingredients.length > 0 ? (
         <div>
           <p>Ingredients:</p>
@@ -28,6 +31,7 @@ const RenderDetails = ({
       )}
       {method && method.length > 0 ? (
   <div>
+    <br />
     <p>Method:</p>
     <ol>
       {method.map((step, index) => (

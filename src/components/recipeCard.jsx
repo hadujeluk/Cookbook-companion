@@ -5,7 +5,7 @@ const RecipeCard = ({ title, image, difficulty, id }) => {
   return (
     <div className="recipe-card">
       <img src={image} alt={title} />
-      <h2 className="text">{title}</h2>
+      <h4 className="text">{title}</h4>
       <p className="text">Difficulty: {difficulty}</p>
       <Link to={`/details/${id}`}>
         <button type="button" className="btn btn-primary">View Recipe→</button>
