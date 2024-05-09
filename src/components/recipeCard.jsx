@@ -6,8 +6,8 @@ const RecipeCard = ({ title, image, difficulty, id }) => {
     <Link to={`details/${id}`}>
     <div className="recipe-card">
       <img className="image"src={image} alt={title} />
-      <h2>{title}</h2>
-      <p>Difficulty: {difficulty}</p>
+      <h2 className="text">{title}</h2>
+      <p className="text">Difficulty: {difficulty}</p>
     </div>
     </Link>
   );
