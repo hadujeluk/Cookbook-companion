@@ -5,11 +5,10 @@ import HomePage from '../components/HomePage';
 
 function Home() {
   return (
-    
-      <div>
-        <Navbar />
-         <HomePage />   
-      </div>
+    <div>
+      <Navbar />
+      < HomePage/>
+    </div>
   );
 }
 

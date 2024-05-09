@@ -21,6 +21,11 @@ function Navbar() {
           <button className="btn btn-secondary">HOME</button>
            </NavLink>
        </div>
+       <div className='Navbutton'>
+        <NavLink to={'/about'}  className='navbar' >
+          <button className="btn btn-secondary">ABOUT</button>
+           </NavLink>
+       </div>
       
       </div>
     </nav>
