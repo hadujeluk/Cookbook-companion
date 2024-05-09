@@ -1,7 +1,8 @@
 .footer {
   background-color: black;
   color: #fff;
-  padding: 50px;
+  padding: 40px;
+  
 }
 
 .social-icons {
@@ -45,7 +46,7 @@
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 10px;
-  float: inline-start;
+  
 }
 
 .link-group {
