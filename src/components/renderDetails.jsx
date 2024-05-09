@@ -9,17 +9,20 @@ const RenderDetails = ({
   description,
 }) => {
   return (
-    <div class="container">
-      <img className="image" src={image} />
-      <div>{description}</div>
+    <div className="details">
+    <div>
+      <div className="details">
+      <div><img className="image" src={image} /></div>
+      <div className="Dev"><p className="txt">Description: </p>{description}</div>
+      </div>
       <br />
-      <div class="container">Portion: {portion}</div>
+      <div><p className="txt">Portion: </p> {portion}</div>
       <br />
-      <div>Time: {time}</div>
+      <div><p className="txt">Time: </p>{time}</div>
       <br /><br />
       {ingredients && ingredients.length > 0 ? (
         <div>
-          <p>Ingredients:</p>
+          <p className="txt">Ingredients: </p>
           <ul>
             {ingredients.map((ingredient, index) => (
               <li key={index}>{ingredient}</li>
@@ -30,9 +33,9 @@ const RenderDetails = ({
         <p>No ingredients found</p>
       )}
       {method && method.length > 0 ? (
-  <div>
+  <div >
     <br />
-    <p>Method:</p>
+    <p className="txt">Method: </p>
     <ol>
       {method.map((step, index) => (
         <li key={index}>{Object.values(step)[0]}</li>
@@ -44,6 +47,8 @@ const RenderDetails = ({
 )}
 
     </div>
+    </div>
   );
+  
 };
 export default RenderDetails;
