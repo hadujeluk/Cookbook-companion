@@ -153,6 +153,7 @@ ol {
   display: flex;
   flex-direction: column;
   background-color:rgba(245, 245, 245, 0.906);
+  margin-top: 11px;
 
 }
 .btn-primary{
