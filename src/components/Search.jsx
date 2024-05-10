@@ -1,7 +1,10 @@
 import React from "react";
 import SortBar from "./SortBar";
 import Addrecipe from "./Addrecipe";
-export default function Search() {
+
+
+export default function Search({ searchInput, setSearchInput, }) {
+
   return (
     <div>
       <nav className="navbar bg-body-tertiary">
@@ -20,6 +23,8 @@ export default function Search() {
                 placeholder="search dish"
                 aria-label="Search"
                 style={{ maxWidth: "500px" }}
+                value={searchInput}
+                onChange={(e) => setSearchInput(e.target.value)}
               />
               <button className="btn btn-outline-success" type="submit">
                 Search

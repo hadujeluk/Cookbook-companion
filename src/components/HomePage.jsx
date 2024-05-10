@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 import "../components/HomePage.css"; 
 import { Link } from "react-router-dom";
 
+
 function HomePage() {
   const [recipes, setRecipes] = useState([]);
 

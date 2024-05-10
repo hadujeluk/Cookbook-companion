@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+
 function SortBar({ recipe }) {
   const [sortRecipe, setSortRecipe] = useState(
     recipe && recipe.length ? [...recipe] : []
@@ -23,6 +24,7 @@ function SortBar({ recipe }) {
           <option value="">All</option>
           <option value="">Easy</option>
           <option value="">Intermediate</option>
+        
         </select>
       </div>
       <ul>
