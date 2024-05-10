@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const RenderDetails = ({
   portion,
@@ -9,6 +10,7 @@ const RenderDetails = ({
   description,
 }) => {
   return (
+    
     <div className="details">
       <div className="image-container">
         <img className="image" src={image} alt="Meal" />
@@ -16,7 +18,9 @@ const RenderDetails = ({
           <h2 className="heading">{description}</h2>
         </div>
       </div>
-      <div className="info-container">
+      <div className="info-container"><Link to={`/recipes`}>
+    <button type="button" className="btn btn-primary">Go Back To Recipes</button>
+  </Link>
         <div className="info">
           <p className="txt">Time: {time}</p>
           <p className="txt">Portion: {portion}</p>
@@ -49,6 +53,7 @@ const RenderDetails = ({
         </div>
       </div>
     </div>
+    
   );
 };
 

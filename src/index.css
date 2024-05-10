@@ -202,6 +202,10 @@ ol {
 .sort-bar label {
   margin-right: 15px;
 }
+.goback{
+  padding: 0px;
+  margin-bottom: 10px;
+}
 
 .sort-bar select {
   padding: 5px;

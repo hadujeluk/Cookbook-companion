@@ -6,6 +6,7 @@ import About from "../components/About";
 import RecipeCollection from "../components/recipeCollection";
 import RecipeDetails from "../components/recipeDetails";
 import Footer from "../components/Footer";
+import RenderDetails from "../components/renderDetails";
 
 
 const route = createBrowserRouter([
@@ -30,7 +31,12 @@ const route = createBrowserRouter([
     {
       path:'/footer',
       element: <Footer />
-    }
+    },
+    {
+      path:'/recipes',
+      element:<RenderDetails/>
+    
+        }
 
    
 ]
