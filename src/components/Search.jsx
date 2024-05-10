@@ -1,10 +1,14 @@
 import React from "react";
 import SortBar from "./SortBar";
+import Addrecipe from "./Addrecipe";
 export default function Search() {
   return (
     <div>
       <nav className="navbar bg-body-tertiary">
         <div className="spacing">
+          <div>
+            <Addrecipe />
+          </div>
           <div>
             <SortBar />
           </div>
