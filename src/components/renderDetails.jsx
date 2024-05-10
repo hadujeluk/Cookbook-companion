@@ -18,7 +18,8 @@ const RenderDetails = ({
           <h2 className="heading">{description}</h2>
         </div>
       </div>
-      <div className="info-container"><Link to={`/recipes`}>
+      <div className="info-container">
+        <Link to={`/recipes`}>
     <button type="button" className="btn">Go Back To Recipes</button>
   </Link>
         <div className="info">

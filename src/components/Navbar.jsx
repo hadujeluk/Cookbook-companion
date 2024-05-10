@@ -10,7 +10,7 @@ function Navbar() {
       <div className="Iconcontainer">
         <div>
           <img
-            src="https://www.creativefabrica.com/wp-content/uploads/2021/11/16/Chef-hat-icon-cartoon-illustration-Graphics-20266678-1.jpg"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJX-58TMLs5F9M3K-kAiz7AExZ5gESOcBr9A&s"
             className="icon"
           />
         </div>
