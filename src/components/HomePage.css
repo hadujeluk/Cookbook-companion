@@ -1,24 +1,29 @@
 .homepage {
   display: flex;
+
   justify-content: space-between; 
   align-items: center; 
   background-color:black; 
   padding: 60px; 
+
+  
+
   max-height: 100%;
 }
-
 
 .homepage-header {
   text-align: left;
 }
 
 .header {
+
   font-size: 90px; 
   font-family: Georgia, 'Times New Roman', Times, serif;
+
   font-weight: bolder;
   color: whitesmoke;
-   
 }
+
 
   .paragraph{
     text-align: left;
@@ -94,14 +99,14 @@
   .button-primary:hover,
   .button-secondary:hover {
     opacity: 0.8;
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+
   }
-  
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
+  to {
+    opacity: 1;
   }
-  
+}
