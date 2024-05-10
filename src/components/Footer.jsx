@@ -7,7 +7,8 @@ import { NavLink } from "react-router-dom";
 
 function Footer() {
   return (
-    <footer className="footer">
+
+    <div className="footer">
        <NavLink to={"/"} className="navbar">
                 <button className="btn btn-secondary button1">HOME</button>
               </NavLink>
@@ -56,7 +57,7 @@ function Footer() {
       <div className="signature">
         <span>© 2024 Cookbook Companion</span>
       </div>
-    </footer>
+    </div>
   );
 }
 
