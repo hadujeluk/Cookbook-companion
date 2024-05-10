@@ -1,17 +1,17 @@
-import React, { useState } from 'react';
-import { Button, Modal, Form } from 'react-bootstrap';
+import React, { useState } from "react";
+import { Button, Modal, Form } from "react-bootstrap";
 
 function Addrecipe() {
   const [show, setShow] = useState(false);
   const [recipe, setRecipe] = useState({
-    title: '',
-    difficulty: 'Easy',
-    portion: '',
-    time: '',
-    description: '',
+    title: "",
+    difficulty: "",
+    portion: "",
+    time: "",
+    description: "",
     ingredients: [],
     method: [],
-    image: '',
+    image: "",
   });
 
   const handleClose = () => setShow(false);
@@ -26,7 +26,7 @@ function Addrecipe() {
   };
 
   const handleIngredientsChange = (event) => {
-    const ingredients = event.target.value.split('\n');
+    const ingredients = event.target.value.split("\n");
     setRecipe((prevRecipe) => ({
       ...prevRecipe,
       ingredients,
@@ -34,38 +34,36 @@ function Addrecipe() {
   };
 
   const handleMethodChange = (event) => {
-    const method = event.target.value.split('\n');
+    const method = event.target.value.split("\n");
     setRecipe((prevRecipe) => ({
       ...prevRecipe,
       method,
     }));
   };
 
-
   const handleSubmit = async () => {
     try {
-      const response = await fetch('http://localhost:3000/recipes', {
-        method: 'POST',
+      const response = await fetch("http://localhost:3000/recipes", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify(recipe),
       });
 
       if (response.ok) {
         handleClose();
-        
       } else {
-        console.error('Error submitting recipe:', response.status);
+        console.error("Error submitting recipe:", response.status);
       }
     } catch (error) {
-      console.error('Error submitting recipe:', error);
+      console.error("Error submitting recipe:", error);
     }
   };
 
   return (
     <>
-      <Button variant="primary" onClick={handleShow}>
+      <Button className="addbutton" onClick={handleShow}>
         Add Recipe
       </Button>
 
@@ -133,7 +131,7 @@ function Addrecipe() {
               <Form.Control
                 as="textarea"
                 name="ingredients"
-                value={recipe.ingredients.join('\n')}
+                value={recipe.ingredients.join("\n")}
                 onChange={handleIngredientsChange}
               />
             </Form.Group>
@@ -143,7 +141,7 @@ function Addrecipe() {
               <Form.Control
                 as="textarea"
                 name="method"
-                value={recipe.method.join('\n')}
+                value={recipe.method.join("\n")}
                 onChange={handleMethodChange}
               />
             </Form.Group>
@@ -154,7 +152,8 @@ function Addrecipe() {
                 type="text"
                 name="image"
                 value={recipe.image}
-                onChange={handleInputChange}/>
+                onChange={handleInputChange}
+              />
             </Form.Group>
           </Form>
         </Modal.Body>

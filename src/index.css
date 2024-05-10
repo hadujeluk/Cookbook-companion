@@ -160,6 +160,19 @@ ol {
   color: #101820;
   outline: #858f99;
 }
+.addbutton{
+color: white;
+font-size: medium;
+background-color: rgb(24, 109, 24);
+width: 100px;
+margin-right: 100px;
+font-style: italic;
+font-weight: 400;
+padding: 10px;
+}
+.addbutton :hover{
+  background-color: #101820;
+}
 
 .recipe-card img {
   height: 250px;
