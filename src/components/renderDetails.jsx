@@ -10,45 +10,46 @@ const RenderDetails = ({
 }) => {
   return (
     <div className="details">
-    <div>
-      <div className="details">
-      <div><img className="image" src={image} /></div>
-      <div className="Dev"><p className="txt">Description: </p>{description}</div>
-      </div>
-      <br />
-      <div><p className="txt">Portion: </p> {portion}</div>
-      <br />
-      <div><p className="txt">Time: </p>{time}</div>
-      <br /><br />
-      {ingredients && ingredients.length > 0 ? (
-        <div>
-          <p className="txt">Ingredients: </p>
-          <ul>
-            {ingredients.map((ingredient, index) => (
-              <li key={index}>{ingredient}</li>
-            ))}
-          </ul>
+      <div className="image-container">
+        <img className="image" src={image} alt="Meal" />
+        <div className="image-description">
+          <h2 className="heading">{description}</h2>
         </div>
-      ) : (
-        <p>No ingredients found</p>
-      )}
-      {method && method.length > 0 ? (
-  <div >
-    <br />
-    <p className="txt">Method: </p>
-    <ol>
-      {method.map((step, index) => (
-        <li key={index}>{Object.values(step)[0]}</li>
-      ))}
-    </ol>
-  </div>
-) : (
-  <p>No method steps found</p>
-)}
-
-    </div>
+      </div>
+      <div className="info-container">
+        <div className="info">
+          <p className="txt">Time: {time}</p>
+          <p className="txt">Portion: {portion}</p>
+        </div>
+        <div className="content">
+          <div className="ingredients">
+            <h2 className="subheading">Ingredients</h2>
+            {ingredients && ingredients.length > 0 ? (
+              <ul>
+                {ingredients.map((ingredient, index) => (
+                  <li key={index}>{ingredient}</li>
+                ))}
+              </ul>
+            ) : (
+              <p>No ingredients found</p>
+            )}
+          </div>
+          <div className="method">
+            <h2 className="subheading">Method</h2>
+            {method && method.length > 0 ? (
+              <ol>
+                {method.map((step, index) => (
+                  <li key={index}>{Object.values(step)[0]}</li>
+                ))}
+              </ol>
+            ) : (
+              <p>No method steps found</p>
+            )}
+          </div>
+        </div>
+      </div>
     </div>
   );
-  
 };
+
 export default RenderDetails;
