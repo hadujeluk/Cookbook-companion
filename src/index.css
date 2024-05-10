@@ -49,12 +49,11 @@ h1 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
-  background-color:black;
-  
+  background-color: black;
 }
 .details {
   display: flex;
-  background-color: black; 
+  background-color: black;
   padding: 40px;
   border-radius: 10px;
 }
@@ -62,14 +61,13 @@ h1 {
 .image-container {
   flex: 1;
   position: relative;
-
 }
 
 .image {
   width: 200%;
   height: 10px;
- border-radius: 20px;
- max-width: 2000px;
+  border-radius: 20px;
+  max-width: 2000px;
   transition: transform 0.3s ease;
 }
 
@@ -81,45 +79,44 @@ h1 {
   position: absolute;
   bottom: 100px;
   left: 5px;
-  background-color: black; 
+  background-color: black;
   color: #fff;
   padding: 0.5px;
   border-radius: 7px;
 }
-.heading{
+.heading {
   font-size: 25px;
 }
 
 .info-container {
   flex: 1;
-  padding-left: 40px; 
+  padding-left: 40px;
 }
 
 .info {
-  background-color: black; 
+  background-color: black;
   padding: 20px;
   border-radius: 10px;
 }
 
 .txt {
-  color: transparent; 
-  font-size: 24px; 
-  animation: glowAppear 5s infinite; 
+  color: transparent;
+  font-size: 24px;
+  animation: glowAppear 5s infinite;
 }
 
 @keyframes glowAppear {
   0% {
-    text-shadow: 0 0 10px green; 
+    text-shadow: 0 0 10px green;
   }
   50% {
-    text-shadow: 0 0 5px green; 
+    text-shadow: 0 0 5px green;
   }
   100% {
-    color: green; 
-    text-shadow: 0 0 5px green; 
+    color: green;
+    text-shadow: 0 0 5px green;
   }
 }
-
 
 .content {
   display: flex;
@@ -141,7 +138,7 @@ ol {
 
 .ingredients,
 .method {
-  flex: 0 0 48%; 
+  flex: 0 0 48%;
 }
 
 .recipe-card {
@@ -152,20 +149,23 @@ ol {
   height: 450px;
   display: flex;
   flex-direction: column;
-  background-color:rgba(245, 245, 245, 0.906);
+  background-color: rgba(245, 245, 245, 0.906);
   margin-top: 11px;
-
 }
-.btn-primary{
-  background-color:green;
-  size: 60px;
+.btn {
+  background-color: rgb(24, 129, 24);
+  outline: #858f99;
+}
+.btn button:hover {
+  color: #101820;
+  outline: #858f99;
 }
 
 .recipe-card img {
-  height: 250px; 
+  height: 250px;
   object-fit: cover;
   width: 100%;
-  }
+}
 .recipe-card:hover {
   transform: translateY(-10px);
   box-shadow: 0 4px 8px rgba(182, 53, 53, 0.1);
@@ -180,20 +180,18 @@ ol {
 
 .recipe-card p {
   font-style: italic;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .image {
   width: 350px;
   height: 300px;
 }
-.txt{
+.txt {
   font-size: 40px;
   font-weight: bolder;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-.Dev{
+.Dev {
   padding: 20px;
 }
 .button1 {
@@ -203,7 +201,7 @@ ol {
 .sort-bar label {
   margin-right: 15px;
 }
-.goback{
+.goback {
   padding: 0px;
   margin-bottom: 10px;
 }
@@ -213,8 +211,8 @@ ol {
   border: 5px solid brown;
   border-radius: 15px;
 }
-.sort-bar{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+.sort-bar {
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: bold;
 }
 .spacing {

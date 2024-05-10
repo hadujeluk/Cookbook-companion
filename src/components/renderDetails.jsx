@@ -19,7 +19,7 @@ const RenderDetails = ({
         </div>
       </div>
       <div className="info-container"><Link to={`/recipes`}>
-    <button type="button" className="btn btn-primary">Go Back To Recipes</button>
+    <button type="button" className="btn">Go Back To Recipes</button>
   </Link>
         <div className="info">
           <p className="txt">Time: {time}</p>
