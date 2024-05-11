@@ -4,8 +4,8 @@
 The Recipe App allows one to discover new recipes for meals.It contains a wide range of meals and their respective ingredients ,method of preparing and difficulty of preparing the meal.The instructions are simple and clear to enable one understand them with ease.In addition, one is able to add a new recipe to the existing ones
 
 ## Features
-- Search for recipes by keyword, ingredient, cuisine, etc.
-- Filter search results based on dietary preferences (e.g., vegetarian, gluten-free).
+1. Contains a navbar that allows one to navigate to the home page and also the about us page.
+2. In the homepage it conatins 
 - View detailed recipe information, including ingredients, instructions, and nutritional facts.
 - Save favorite recipes to user profile for easy access.
 - Create and share personal recipes with other users.
