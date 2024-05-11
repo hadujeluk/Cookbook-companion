@@ -1,4 +1,4 @@
-# Recipe App
+# COOKBOOK COMPANION RECIPE APP
 
 ## Overview
 The Recipe App allows one to discover new recipes for meals.It contains a wide range of meals and their respective ingredients ,method of preparing and difficulty of preparing the meal.The instructions are simple and clear to enable one understand them with ease.In addition, one is able to add a new recipe to the existing ones
@@ -37,6 +37,8 @@ For any inquiries suggestions or feedback reach out to us through the contacts p
 1. HTML
 2. Javascript
 3. React
+
+## Acknowlegments
 
 
 
