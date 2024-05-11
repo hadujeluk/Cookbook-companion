@@ -39,6 +39,13 @@ For any inquiries suggestions or feedback reach out to us through the contacts p
 3. React
 
 ## Acknowlegments
+The following are the masterminds behind this incredible piece of work:
+1. Bill Kiprop
+2. Nicole 
+3. Kennedy
+4. Imani
+5. Judah
+
 
 
 
