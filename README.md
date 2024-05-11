@@ -6,22 +6,23 @@ The Recipe App allows one to discover new recipes for meals.It contains a wide r
 ## Features
 1. Contains a navbar that allows one to navigate to the home page and also the about us page.
 2. In the homepage it conatins 
-- View detailed recipe information, including ingredients, instructions, and nutritional facts.
-- Save favorite recipes to user profile for easy access.
-- Create and share personal recipes with other users.
-- Rate and review recipes shared by other users.
-- User authentication and authorization for secure access to profiles and saved recipes.
+3. Has a sort bar that allows one to explore recipes of diffirefent difficulties.
+4. Has a search bar that allows one to search different recipes of choice.
+5. Has a add recipe button that enables one to add a recipein the modal form.
+6. Contacts are easily accesible from the home page ny clicking the contact us button which redirects you to a conatcts page.
+
 
 ## Installation
+- To install this app to your pc run git clone git@github.com:hadujeluk/Cookbook-companion.git in thhe terminal.
 
 
-5. Open your web browser and navigate to http://localhost:3000 to view the application.
+5. Open your web browser and navigate to http://localhost:
 
 ## Usage
 - Register an account or log in if you already have one.
 - Explore recipes by searching or browsing categories.
 - Save your favorite recipes to your profile for later.
-- Create your own recipes and share them with the community.
+- Create your own recipes and share them with the community.s
 - Rate and review recipes shared by other users.
 - Update your profile settings and preferences as needed.
 
