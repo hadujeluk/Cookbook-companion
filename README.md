@@ -31,6 +31,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions, suggestions, or issues regarding the Recipe App, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries suggestions or feedback reach out to us through the contacts provided in the app.
+
 
 
