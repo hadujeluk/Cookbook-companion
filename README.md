@@ -13,18 +13,11 @@ The Recipe App allows one to discover new recipes for meals.It contains a wide r
 
 
 ## Installation
-- To install this app to your pc run git clone git@github.com:hadujeluk/Cookbook-companion.git in thhe terminal.
-
-
-5. Open your web browser and navigate to http://localhost:
+- To install this app to your pc run git clone git@github.com:hadujeluk/Cookbook-companion.git in thhe terminal
 
 ## Usage
-- Register an account or log in if you already have one.
-- Explore recipes by searching or browsing categories.
-- Save your favorite recipes to your profile for later.
-- Create your own recipes and share them with the community.s
-- Rate and review recipes shared by other users.
-- Update your profile settings and preferences as needed.
+- One is able to acces te app using our live link ie https://cookbook-companion.vercel.app/
+
 
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to the Recipe App, please follow these guidelines:
